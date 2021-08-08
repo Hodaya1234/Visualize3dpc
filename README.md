@@ -69,7 +69,6 @@ A table-Airplane hybrid by optimizing the input point cloud to have latent featu
 Optimization:
 
 <img src="https://user-images.githubusercontent.com/33811220/128633383-85601f18-7a27-463a-af95-7c43f939f259.gif" height="200">
-![chairs combined](https://user-images.githubusercontent.com/33811220/128633685-022e6c29-5355-4423-a407-fc3dffe94b4b.png)
 
 Final result: Airplane shape with four leg-like objects:
 
