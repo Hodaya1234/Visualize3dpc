@@ -13,6 +13,8 @@ To do so we used the following methods:
 ## Results
 
 ### Clustering of the per point latent features of a single example.
+![airplane 0](https://user-images.githubusercontent.com/33811220/128631419-2ba4b8d6-bb11-43da-9162-163b5a3b4e0d.gif)
+
 
 ### Clustering of the per point latent features over many examples of a single class
 
