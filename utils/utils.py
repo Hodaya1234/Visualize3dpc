@@ -1,6 +1,11 @@
 import numpy as np
 import torch
 
+def calculate_accuracy(pred, target):
+    pred_choice = pred.data.max(1)[1]
+    correct = pred_choice.eq(target.long().data).cpu().sum()
+    return correct.item()
+
 def class_name(num):
     names = ['airplane', 'bathtub', 'bed', 'bench', 'bookshelf', 'bottle',
         'bowl', 'car', 'chair', 'cone', 'cup', 'curtain', 'desk', 'door',

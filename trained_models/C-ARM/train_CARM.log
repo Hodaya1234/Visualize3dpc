@@ -1,0 +1,1302 @@
+[2021-07-29 14:32:51,949][__main__][INFO] - No existing model, starting training from scratch...
+[2021-07-29 14:32:51,952][__main__][INFO] - Start training...
+[2021-07-29 14:32:51,952][__main__][INFO] - Epoch 1 (1/100):
+[2021-07-29 14:35:39,566][__main__][INFO] - Best Instance Accuracy: 0.337475
+[2021-07-29 14:35:39,567][__main__][INFO] - Save model...
+[2021-07-29 14:35:39,567][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:36:26,048][__main__][INFO] - Validation Instance Accuracy: 0.608367, Class Accuracy: 0.372905
+[2021-07-29 14:36:26,048][__main__][INFO] - Epoch 2 (2/100):
+[2021-07-29 14:39:07,283][__main__][INFO] - Best Instance Accuracy: 0.397249
+[2021-07-29 14:39:07,286][__main__][INFO] - Save model...
+[2021-07-29 14:39:07,286][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:39:48,158][__main__][INFO] - Validation Instance Accuracy: 0.655746, Class Accuracy: 0.441837
+[2021-07-29 14:39:48,162][__main__][INFO] - Epoch 3 (3/100):
+[2021-07-29 14:42:28,509][__main__][INFO] - Best Instance Accuracy: 0.430992
+[2021-07-29 14:42:28,509][__main__][INFO] - Save model...
+[2021-07-29 14:42:28,510][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:43:09,088][__main__][INFO] - Validation Instance Accuracy: 0.697077, Class Accuracy: 0.544282
+[2021-07-29 14:43:09,089][__main__][INFO] - Epoch 4 (4/100):
+[2021-07-29 14:45:48,308][__main__][INFO] - Best Instance Accuracy: 0.452871
+[2021-07-29 14:45:48,310][__main__][INFO] - Save model...
+[2021-07-29 14:45:48,310][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:46:28,612][__main__][INFO] - Validation Instance Accuracy: 0.731855, Class Accuracy: 0.573287
+[2021-07-29 14:46:28,612][__main__][INFO] - Epoch 5 (5/100):
+[2021-07-29 14:49:06,887][__main__][INFO] - Best Instance Accuracy: 0.468915
+[2021-07-29 14:49:06,887][__main__][INFO] - Save model...
+[2021-07-29 14:49:06,888][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:49:47,106][__main__][INFO] - Validation Instance Accuracy: 0.761089, Class Accuracy: 0.618788
+[2021-07-29 14:49:47,111][__main__][INFO] - Epoch 6 (6/100):
+[2021-07-29 14:52:25,716][__main__][INFO] - Best Instance Accuracy: 0.481385
+[2021-07-29 14:52:25,721][__main__][INFO] - Save model...
+[2021-07-29 14:52:25,721][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:53:06,838][__main__][INFO] - Validation Instance Accuracy: 0.707157, Class Accuracy: 0.573057
+[2021-07-29 14:53:06,839][__main__][INFO] - Epoch 7 (7/100):
+[2021-07-29 14:55:44,711][__main__][INFO] - Best Instance Accuracy: 0.492738
+[2021-07-29 14:55:44,714][__main__][INFO] - Save model...
+[2021-07-29 14:55:44,714][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:56:25,102][__main__][INFO] - Validation Instance Accuracy: 0.752520, Class Accuracy: 0.604383
+[2021-07-29 14:56:25,104][__main__][INFO] - Epoch 8 (8/100):
+[2021-07-29 14:59:08,909][__main__][INFO] - Best Instance Accuracy: 0.502092
+[2021-07-29 14:59:08,913][__main__][INFO] - Save model...
+[2021-07-29 14:59:08,914][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 14:59:49,069][__main__][INFO] - Validation Instance Accuracy: 0.756552, Class Accuracy: 0.614457
+[2021-07-29 14:59:49,069][__main__][INFO] - Epoch 9 (9/100):
+[2021-07-29 15:02:26,299][__main__][INFO] - Best Instance Accuracy: 0.509762
+[2021-07-29 15:02:26,302][__main__][INFO] - Save model...
+[2021-07-29 15:02:26,302][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:03:06,259][__main__][INFO] - Validation Instance Accuracy: 0.797379, Class Accuracy: 0.713277
+[2021-07-29 15:03:06,259][__main__][INFO] - Epoch 10 (10/100):
+[2021-07-29 15:05:42,571][__main__][INFO] - Best Instance Accuracy: 0.516760
+[2021-07-29 15:05:42,571][__main__][INFO] - Save model...
+[2021-07-29 15:05:42,571][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:06:22,491][__main__][INFO] - Validation Instance Accuracy: 0.789819, Class Accuracy: 0.652208
+[2021-07-29 15:06:22,492][__main__][INFO] - Epoch 11 (11/100):
+[2021-07-29 15:09:14,640][__main__][INFO] - Best Instance Accuracy: 0.523430
+[2021-07-29 15:09:14,641][__main__][INFO] - Save model...
+[2021-07-29 15:09:14,641][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:09:55,329][__main__][INFO] - Validation Instance Accuracy: 0.775706, Class Accuracy: 0.649684
+[2021-07-29 15:09:55,330][__main__][INFO] - Epoch 12 (12/100):
+[2021-07-29 15:12:38,757][__main__][INFO] - Best Instance Accuracy: 0.528482
+[2021-07-29 15:12:38,758][__main__][INFO] - Save model...
+[2021-07-29 15:12:38,758][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:13:22,313][__main__][INFO] - Validation Instance Accuracy: 0.791835, Class Accuracy: 0.680336
+[2021-07-29 15:13:22,314][__main__][INFO] - Epoch 13 (13/100):
+[2021-07-29 15:16:24,533][__main__][INFO] - Best Instance Accuracy: 0.533371
+[2021-07-29 15:16:24,534][__main__][INFO] - Save model...
+[2021-07-29 15:16:24,534][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:17:11,651][__main__][INFO] - Validation Instance Accuracy: 0.786290, Class Accuracy: 0.682375
+[2021-07-29 15:17:11,652][__main__][INFO] - Epoch 14 (14/100):
+[2021-07-29 15:20:08,380][__main__][INFO] - Best Instance Accuracy: 0.538259
+[2021-07-29 15:20:08,380][__main__][INFO] - Save model...
+[2021-07-29 15:20:08,380][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:20:54,517][__main__][INFO] - Validation Instance Accuracy: 0.775706, Class Accuracy: 0.672892
+[2021-07-29 15:20:54,517][__main__][INFO] - Epoch 15 (15/100):
+[2021-07-29 15:23:55,544][__main__][INFO] - Best Instance Accuracy: 0.542985
+[2021-07-29 15:23:55,545][__main__][INFO] - Save model...
+[2021-07-29 15:23:55,545][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:24:41,936][__main__][INFO] - Validation Instance Accuracy: 0.770665, Class Accuracy: 0.647663
+[2021-07-29 15:24:41,936][__main__][INFO] - Epoch 16 (16/100):
+[2021-07-29 15:27:43,852][__main__][INFO] - Best Instance Accuracy: 0.547247
+[2021-07-29 15:27:43,852][__main__][INFO] - Save model...
+[2021-07-29 15:27:43,852][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:28:31,022][__main__][INFO] - Validation Instance Accuracy: 0.795363, Class Accuracy: 0.682522
+[2021-07-29 15:28:31,023][__main__][INFO] - Epoch 17 (17/100):
+[2021-07-29 15:31:34,294][__main__][INFO] - Best Instance Accuracy: 0.551478
+[2021-07-29 15:31:34,294][__main__][INFO] - Save model...
+[2021-07-29 15:31:34,294][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:32:21,550][__main__][INFO] - Validation Instance Accuracy: 0.782258, Class Accuracy: 0.683666
+[2021-07-29 15:32:21,550][__main__][INFO] - Epoch 18 (18/100):
+[2021-07-29 15:35:24,734][__main__][INFO] - Best Instance Accuracy: 0.554640
+[2021-07-29 15:35:24,735][__main__][INFO] - Save model...
+[2021-07-29 15:35:24,735][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:36:11,560][__main__][INFO] - Validation Instance Accuracy: 0.791331, Class Accuracy: 0.674769
+[2021-07-29 15:36:11,560][__main__][INFO] - Epoch 19 (19/100):
+[2021-07-29 15:39:14,865][__main__][INFO] - Best Instance Accuracy: 0.558330
+[2021-07-29 15:39:14,866][__main__][INFO] - Save model...
+[2021-07-29 15:39:14,866][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:40:01,700][__main__][INFO] - Validation Instance Accuracy: 0.797883, Class Accuracy: 0.697309
+[2021-07-29 15:40:01,701][__main__][INFO] - Epoch 20 (20/100):
+[2021-07-29 15:43:04,320][__main__][INFO] - Best Instance Accuracy: 0.561517
+[2021-07-29 15:43:04,321][__main__][INFO] - Save model...
+[2021-07-29 15:43:04,321][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:43:51,553][__main__][INFO] - Validation Instance Accuracy: 0.791331, Class Accuracy: 0.683766
+[2021-07-29 15:43:51,554][__main__][INFO] - Epoch 21 (21/100):
+[2021-07-29 15:46:53,509][__main__][INFO] - Best Instance Accuracy: 0.564866
+[2021-07-29 15:46:53,509][__main__][INFO] - Save model...
+[2021-07-29 15:46:53,509][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:47:40,529][__main__][INFO] - Validation Instance Accuracy: 0.787802, Class Accuracy: 0.654076
+[2021-07-29 15:47:40,529][__main__][INFO] - Epoch 22 (22/100):
+[2021-07-29 15:50:42,476][__main__][INFO] - Best Instance Accuracy: 0.567761
+[2021-07-29 15:50:42,476][__main__][INFO] - Save model...
+[2021-07-29 15:50:42,476][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:51:29,240][__main__][INFO] - Validation Instance Accuracy: 0.789315, Class Accuracy: 0.681588
+[2021-07-29 15:51:29,241][__main__][INFO] - Epoch 23 (23/100):
+[2021-07-29 15:54:33,912][__main__][INFO] - Best Instance Accuracy: 0.570178
+[2021-07-29 15:54:33,912][__main__][INFO] - Save model...
+[2021-07-29 15:54:33,912][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:55:21,099][__main__][INFO] - Validation Instance Accuracy: 0.802923, Class Accuracy: 0.675484
+[2021-07-29 15:55:21,099][__main__][INFO] - Epoch 24 (24/100):
+[2021-07-29 15:58:25,460][__main__][INFO] - Best Instance Accuracy: 0.572954
+[2021-07-29 15:58:25,460][__main__][INFO] - Save model...
+[2021-07-29 15:58:25,460][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 15:59:14,575][__main__][INFO] - Validation Instance Accuracy: 0.805444, Class Accuracy: 0.704260
+[2021-07-29 15:59:14,576][__main__][INFO] - Epoch 25 (25/100):
+[2021-07-29 16:02:19,116][__main__][INFO] - Best Instance Accuracy: 0.575294
+[2021-07-29 16:02:19,116][__main__][INFO] - Save model...
+[2021-07-29 16:02:19,116][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:03:07,425][__main__][INFO] - Validation Instance Accuracy: 0.804940, Class Accuracy: 0.698793
+[2021-07-29 16:03:07,425][__main__][INFO] - Epoch 26 (26/100):
+[2021-07-29 16:06:11,301][__main__][INFO] - Best Instance Accuracy: 0.577547
+[2021-07-29 16:06:11,301][__main__][INFO] - Save model...
+[2021-07-29 16:06:11,301][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:06:58,382][__main__][INFO] - Validation Instance Accuracy: 0.783770, Class Accuracy: 0.656296
+[2021-07-29 16:06:58,382][__main__][INFO] - Epoch 27 (27/100):
+[2021-07-29 16:10:01,263][__main__][INFO] - Best Instance Accuracy: 0.579755
+[2021-07-29 16:10:01,263][__main__][INFO] - Save model...
+[2021-07-29 16:10:01,263][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:10:48,675][__main__][INFO] - Validation Instance Accuracy: 0.798891, Class Accuracy: 0.697750
+[2021-07-29 16:10:48,675][__main__][INFO] - Epoch 28 (28/100):
+[2021-07-29 16:13:51,352][__main__][INFO] - Best Instance Accuracy: 0.581625
+[2021-07-29 16:13:51,353][__main__][INFO] - Save model...
+[2021-07-29 16:13:51,353][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:14:38,333][__main__][INFO] - Validation Instance Accuracy: 0.819556, Class Accuracy: 0.723589
+[2021-07-29 16:14:38,333][__main__][INFO] - Epoch 29 (29/100):
+[2021-07-29 16:17:41,303][__main__][INFO] - Best Instance Accuracy: 0.583488
+[2021-07-29 16:17:41,303][__main__][INFO] - Save model...
+[2021-07-29 16:17:41,303][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:18:30,809][__main__][INFO] - Validation Instance Accuracy: 0.793851, Class Accuracy: 0.674880
+[2021-07-29 16:18:30,809][__main__][INFO] - Epoch 30 (30/100):
+[2021-07-29 16:21:40,687][__main__][INFO] - Best Instance Accuracy: 0.585463
+[2021-07-29 16:21:40,687][__main__][INFO] - Save model...
+[2021-07-29 16:21:40,687][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:22:29,110][__main__][INFO] - Validation Instance Accuracy: 0.801915, Class Accuracy: 0.685617
+[2021-07-29 16:22:29,110][__main__][INFO] - Epoch 31 (31/100):
+[2021-07-29 16:25:34,510][__main__][INFO] - Best Instance Accuracy: 0.587201
+[2021-07-29 16:25:34,510][__main__][INFO] - Save model...
+[2021-07-29 16:25:34,510][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:26:21,807][__main__][INFO] - Validation Instance Accuracy: 0.798891, Class Accuracy: 0.689997
+[2021-07-29 16:26:21,808][__main__][INFO] - Epoch 32 (32/100):
+[2021-07-29 16:29:25,140][__main__][INFO] - Best Instance Accuracy: 0.588889
+[2021-07-29 16:29:25,140][__main__][INFO] - Save model...
+[2021-07-29 16:29:25,140][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:30:12,500][__main__][INFO] - Validation Instance Accuracy: 0.802923, Class Accuracy: 0.699102
+[2021-07-29 16:30:12,500][__main__][INFO] - Epoch 33 (33/100):
+[2021-07-29 16:33:16,857][__main__][INFO] - Best Instance Accuracy: 0.590629
+[2021-07-29 16:33:16,857][__main__][INFO] - Save model...
+[2021-07-29 16:33:16,857][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:34:04,232][__main__][INFO] - Validation Instance Accuracy: 0.783770, Class Accuracy: 0.702673
+[2021-07-29 16:34:04,232][__main__][INFO] - Epoch 34 (34/100):
+[2021-07-29 16:37:07,889][__main__][INFO] - Best Instance Accuracy: 0.592221
+[2021-07-29 16:37:07,889][__main__][INFO] - Save model...
+[2021-07-29 16:37:07,889][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:37:55,237][__main__][INFO] - Validation Instance Accuracy: 0.806452, Class Accuracy: 0.726635
+[2021-07-29 16:37:55,237][__main__][INFO] - Epoch 35 (35/100):
+[2021-07-29 16:40:59,306][__main__][INFO] - Best Instance Accuracy: 0.593658
+[2021-07-29 16:40:59,307][__main__][INFO] - Save model...
+[2021-07-29 16:40:59,307][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:41:46,514][__main__][INFO] - Validation Instance Accuracy: 0.810988, Class Accuracy: 0.712627
+[2021-07-29 16:41:46,515][__main__][INFO] - Epoch 36 (36/100):
+[2021-07-29 16:44:51,707][__main__][INFO] - Best Instance Accuracy: 0.595454
+[2021-07-29 16:44:51,708][__main__][INFO] - Save model...
+[2021-07-29 16:44:51,708][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:45:41,597][__main__][INFO] - Validation Instance Accuracy: 0.806452, Class Accuracy: 0.699504
+[2021-07-29 16:45:41,597][__main__][INFO] - Epoch 37 (37/100):
+[2021-07-29 16:48:45,469][__main__][INFO] - Best Instance Accuracy: 0.597024
+[2021-07-29 16:48:45,469][__main__][INFO] - Save model...
+[2021-07-29 16:48:45,469][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:49:32,959][__main__][INFO] - Validation Instance Accuracy: 0.788306, Class Accuracy: 0.677516
+[2021-07-29 16:49:32,960][__main__][INFO] - Epoch 38 (38/100):
+[2021-07-29 16:52:36,060][__main__][INFO] - Best Instance Accuracy: 0.598431
+[2021-07-29 16:52:36,061][__main__][INFO] - Save model...
+[2021-07-29 16:52:36,061][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:53:22,971][__main__][INFO] - Validation Instance Accuracy: 0.790323, Class Accuracy: 0.691846
+[2021-07-29 16:53:22,972][__main__][INFO] - Epoch 39 (39/100):
+[2021-07-29 16:56:25,826][__main__][INFO] - Best Instance Accuracy: 0.599960
+[2021-07-29 16:56:25,827][__main__][INFO] - Save model...
+[2021-07-29 16:56:25,827][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 16:57:13,623][__main__][INFO] - Validation Instance Accuracy: 0.808468, Class Accuracy: 0.713361
+[2021-07-29 16:57:13,623][__main__][INFO] - Epoch 40 (40/100):
+[2021-07-29 17:00:16,740][__main__][INFO] - Best Instance Accuracy: 0.601483
+[2021-07-29 17:00:16,740][__main__][INFO] - Save model...
+[2021-07-29 17:00:16,740][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:01:03,869][__main__][INFO] - Validation Instance Accuracy: 0.802923, Class Accuracy: 0.727181
+[2021-07-29 17:01:03,869][__main__][INFO] - Epoch 41 (41/100):
+[2021-07-29 17:04:07,586][__main__][INFO] - Best Instance Accuracy: 0.602712
+[2021-07-29 17:04:07,586][__main__][INFO] - Save model...
+[2021-07-29 17:04:07,586][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:04:54,951][__main__][INFO] - Validation Instance Accuracy: 0.808972, Class Accuracy: 0.719612
+[2021-07-29 17:04:54,952][__main__][INFO] - Epoch 42 (42/100):
+[2021-07-29 17:07:58,413][__main__][INFO] - Best Instance Accuracy: 0.604342
+[2021-07-29 17:07:58,413][__main__][INFO] - Save model...
+[2021-07-29 17:07:58,413][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:08:45,597][__main__][INFO] - Validation Instance Accuracy: 0.833165, Class Accuracy: 0.747647
+[2021-07-29 17:08:45,597][__main__][INFO] - Epoch 43 (43/100):
+[2021-07-29 17:11:47,668][__main__][INFO] - Best Instance Accuracy: 0.605748
+[2021-07-29 17:11:47,669][__main__][INFO] - Save model...
+[2021-07-29 17:11:47,669][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:12:34,990][__main__][INFO] - Validation Instance Accuracy: 0.810988, Class Accuracy: 0.706192
+[2021-07-29 17:12:34,991][__main__][INFO] - Epoch 44 (44/100):
+[2021-07-29 17:15:36,620][__main__][INFO] - Best Instance Accuracy: 0.607145
+[2021-07-29 17:15:36,620][__main__][INFO] - Save model...
+[2021-07-29 17:15:36,620][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:16:23,666][__main__][INFO] - Validation Instance Accuracy: 0.816028, Class Accuracy: 0.732432
+[2021-07-29 17:16:23,666][__main__][INFO] - Epoch 45 (45/100):
+[2021-07-29 17:19:25,061][__main__][INFO] - Best Instance Accuracy: 0.608314
+[2021-07-29 17:19:25,062][__main__][INFO] - Save model...
+[2021-07-29 17:19:25,062][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:20:11,725][__main__][INFO] - Validation Instance Accuracy: 0.820060, Class Accuracy: 0.730267
+[2021-07-29 17:20:11,725][__main__][INFO] - Epoch 46 (46/100):
+[2021-07-29 17:23:14,856][__main__][INFO] - Best Instance Accuracy: 0.609696
+[2021-07-29 17:23:14,856][__main__][INFO] - Save model...
+[2021-07-29 17:23:14,856][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:24:01,815][__main__][INFO] - Validation Instance Accuracy: 0.818548, Class Accuracy: 0.730454
+[2021-07-29 17:24:01,816][__main__][INFO] - Epoch 47 (47/100):
+[2021-07-29 17:27:06,382][__main__][INFO] - Best Instance Accuracy: 0.610968
+[2021-07-29 17:27:06,382][__main__][INFO] - Save model...
+[2021-07-29 17:27:06,383][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:27:53,582][__main__][INFO] - Validation Instance Accuracy: 0.806956, Class Accuracy: 0.700636
+[2021-07-29 17:27:53,583][__main__][INFO] - Epoch 48 (48/100):
+[2021-07-29 17:30:56,139][__main__][INFO] - Best Instance Accuracy: 0.612024
+[2021-07-29 17:30:56,139][__main__][INFO] - Save model...
+[2021-07-29 17:30:56,139][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:31:42,909][__main__][INFO] - Validation Instance Accuracy: 0.834173, Class Accuracy: 0.752803
+[2021-07-29 17:31:42,910][__main__][INFO] - Epoch 49 (49/100):
+[2021-07-29 17:34:45,365][__main__][INFO] - Best Instance Accuracy: 0.613277
+[2021-07-29 17:34:45,367][__main__][INFO] - Save model...
+[2021-07-29 17:34:45,368][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:35:32,398][__main__][INFO] - Validation Instance Accuracy: 0.818044, Class Accuracy: 0.713782
+[2021-07-29 17:35:32,399][__main__][INFO] - Epoch 50 (50/100):
+[2021-07-29 17:38:34,419][__main__][INFO] - Best Instance Accuracy: 0.614328
+[2021-07-29 17:38:34,420][__main__][INFO] - Save model...
+[2021-07-29 17:38:34,420][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:39:20,893][__main__][INFO] - Validation Instance Accuracy: 0.811996, Class Accuracy: 0.714783
+[2021-07-29 17:39:20,893][__main__][INFO] - Epoch 51 (51/100):
+[2021-07-29 17:42:24,001][__main__][INFO] - Best Instance Accuracy: 0.616419
+[2021-07-29 17:42:24,001][__main__][INFO] - Save model...
+[2021-07-29 17:42:24,002][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:43:12,025][__main__][INFO] - Validation Instance Accuracy: 0.844254, Class Accuracy: 0.764363
+[2021-07-29 17:43:12,025][__main__][INFO] - Epoch 52 (52/100):
+[2021-07-29 17:46:17,350][__main__][INFO] - Best Instance Accuracy: 0.618664
+[2021-07-29 17:46:17,350][__main__][INFO] - Save model...
+[2021-07-29 17:46:17,350][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:47:04,636][__main__][INFO] - Validation Instance Accuracy: 0.842742, Class Accuracy: 0.761903
+[2021-07-29 17:47:04,638][__main__][INFO] - Epoch 53 (53/100):
+[2021-07-29 17:50:07,891][__main__][INFO] - Best Instance Accuracy: 0.620771
+[2021-07-29 17:50:07,891][__main__][INFO] - Save model...
+[2021-07-29 17:50:07,891][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:50:56,419][__main__][INFO] - Validation Instance Accuracy: 0.844758, Class Accuracy: 0.767671
+[2021-07-29 17:50:56,420][__main__][INFO] - Epoch 54 (54/100):
+[2021-07-29 17:53:58,794][__main__][INFO] - Best Instance Accuracy: 0.622800
+[2021-07-29 17:53:58,794][__main__][INFO] - Save model...
+[2021-07-29 17:53:58,794][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:54:46,334][__main__][INFO] - Validation Instance Accuracy: 0.841734, Class Accuracy: 0.764340
+[2021-07-29 17:54:46,334][__main__][INFO] - Epoch 55 (55/100):
+[2021-07-29 17:57:49,050][__main__][INFO] - Best Instance Accuracy: 0.624691
+[2021-07-29 17:57:49,050][__main__][INFO] - Save model...
+[2021-07-29 17:57:49,050][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 17:58:35,981][__main__][INFO] - Validation Instance Accuracy: 0.841734, Class Accuracy: 0.752278
+[2021-07-29 17:58:35,981][__main__][INFO] - Epoch 56 (56/100):
+[2021-07-29 18:01:40,269][__main__][INFO] - Best Instance Accuracy: 0.626548
+[2021-07-29 18:01:40,269][__main__][INFO] - Save model...
+[2021-07-29 18:01:40,269][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:02:27,563][__main__][INFO] - Validation Instance Accuracy: 0.840726, Class Accuracy: 0.761018
+[2021-07-29 18:02:27,563][__main__][INFO] - Epoch 57 (57/100):
+[2021-07-29 18:05:30,212][__main__][INFO] - Best Instance Accuracy: 0.628350
+[2021-07-29 18:05:30,212][__main__][INFO] - Save model...
+[2021-07-29 18:05:30,212][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:06:17,429][__main__][INFO] - Validation Instance Accuracy: 0.845262, Class Accuracy: 0.761354
+[2021-07-29 18:06:17,429][__main__][INFO] - Epoch 58 (58/100):
+[2021-07-29 18:09:21,362][__main__][INFO] - Best Instance Accuracy: 0.630158
+[2021-07-29 18:09:21,362][__main__][INFO] - Save model...
+[2021-07-29 18:09:21,362][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:10:08,828][__main__][INFO] - Validation Instance Accuracy: 0.845766, Class Accuracy: 0.766501
+[2021-07-29 18:10:08,829][__main__][INFO] - Epoch 59 (59/100):
+[2021-07-29 18:13:14,620][__main__][INFO] - Best Instance Accuracy: 0.631861
+[2021-07-29 18:13:14,620][__main__][INFO] - Save model...
+[2021-07-29 18:13:14,620][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:14:04,454][__main__][INFO] - Validation Instance Accuracy: 0.847782, Class Accuracy: 0.770947
+[2021-07-29 18:14:04,455][__main__][INFO] - Epoch 60 (60/100):
+[2021-07-29 18:17:07,645][__main__][INFO] - Best Instance Accuracy: 0.633521
+[2021-07-29 18:17:07,645][__main__][INFO] - Save model...
+[2021-07-29 18:17:07,645][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:17:54,940][__main__][INFO] - Validation Instance Accuracy: 0.844254, Class Accuracy: 0.761896
+[2021-07-29 18:17:54,941][__main__][INFO] - Epoch 61 (61/100):
+[2021-07-29 18:20:57,559][__main__][INFO] - Best Instance Accuracy: 0.635136
+[2021-07-29 18:20:57,559][__main__][INFO] - Save model...
+[2021-07-29 18:20:57,559][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:21:44,931][__main__][INFO] - Validation Instance Accuracy: 0.831653, Class Accuracy: 0.760303
+[2021-07-29 18:21:44,932][__main__][INFO] - Epoch 62 (62/100):
+[2021-07-29 18:24:49,181][__main__][INFO] - Best Instance Accuracy: 0.636768
+[2021-07-29 18:24:49,181][__main__][INFO] - Save model...
+[2021-07-29 18:24:49,181][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:25:37,186][__main__][INFO] - Validation Instance Accuracy: 0.842238, Class Accuracy: 0.752544
+[2021-07-29 18:25:37,187][__main__][INFO] - Epoch 63 (63/100):
+[2021-07-29 18:28:41,129][__main__][INFO] - Best Instance Accuracy: 0.638319
+[2021-07-29 18:28:41,129][__main__][INFO] - Save model...
+[2021-07-29 18:28:41,129][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:29:28,690][__main__][INFO] - Validation Instance Accuracy: 0.827117, Class Accuracy: 0.743099
+[2021-07-29 18:29:28,691][__main__][INFO] - Epoch 64 (64/100):
+[2021-07-29 18:32:31,718][__main__][INFO] - Best Instance Accuracy: 0.639843
+[2021-07-29 18:32:31,718][__main__][INFO] - Save model...
+[2021-07-29 18:32:31,718][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:33:19,286][__main__][INFO] - Validation Instance Accuracy: 0.840726, Class Accuracy: 0.770675
+[2021-07-29 18:33:19,286][__main__][INFO] - Epoch 65 (65/100):
+[2021-07-29 18:36:22,044][__main__][INFO] - Best Instance Accuracy: 0.641295
+[2021-07-29 18:36:22,045][__main__][INFO] - Save model...
+[2021-07-29 18:36:22,045][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:37:09,597][__main__][INFO] - Validation Instance Accuracy: 0.844254, Class Accuracy: 0.751286
+[2021-07-29 18:37:09,598][__main__][INFO] - Epoch 66 (66/100):
+[2021-07-29 18:40:13,778][__main__][INFO] - Best Instance Accuracy: 0.642783
+[2021-07-29 18:40:13,779][__main__][INFO] - Save model...
+[2021-07-29 18:40:13,779][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:41:00,763][__main__][INFO] - Validation Instance Accuracy: 0.842742, Class Accuracy: 0.762238
+[2021-07-29 18:41:00,763][__main__][INFO] - Epoch 67 (67/100):
+[2021-07-29 18:44:04,819][__main__][INFO] - Best Instance Accuracy: 0.644257
+[2021-07-29 18:44:04,819][__main__][INFO] - Save model...
+[2021-07-29 18:44:04,819][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:44:51,884][__main__][INFO] - Validation Instance Accuracy: 0.842238, Class Accuracy: 0.750300
+[2021-07-29 18:44:51,885][__main__][INFO] - Epoch 68 (68/100):
+[2021-07-29 18:55:30,812][__main__][INFO] - Best Instance Accuracy: 0.645659
+[2021-07-29 18:55:30,812][__main__][INFO] - Save model...
+[2021-07-29 18:55:30,813][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 18:56:18,635][__main__][INFO] - Validation Instance Accuracy: 0.832661, Class Accuracy: 0.740132
+[2021-07-29 18:56:18,635][__main__][INFO] - Epoch 69 (69/100):
+[2021-07-29 18:59:24,119][__main__][INFO] - Best Instance Accuracy: 0.646895
+[2021-07-29 18:59:24,119][__main__][INFO] - Save model...
+[2021-07-29 18:59:24,119][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:00:12,720][__main__][INFO] - Validation Instance Accuracy: 0.835181, Class Accuracy: 0.760046
+[2021-07-29 19:00:12,721][__main__][INFO] - Epoch 70 (70/100):
+[2021-07-29 19:03:19,163][__main__][INFO] - Best Instance Accuracy: 0.648113
+[2021-07-29 19:03:19,164][__main__][INFO] - Save model...
+[2021-07-29 19:03:19,164][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:04:08,700][__main__][INFO] - Validation Instance Accuracy: 0.846774, Class Accuracy: 0.768580
+[2021-07-29 19:04:08,700][__main__][INFO] - Epoch 71 (71/100):
+[2021-07-29 19:07:26,068][__main__][INFO] - Best Instance Accuracy: 0.649344
+[2021-07-29 19:07:26,069][__main__][INFO] - Save model...
+[2021-07-29 19:07:26,069][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:08:14,213][__main__][INFO] - Validation Instance Accuracy: 0.848286, Class Accuracy: 0.771856
+[2021-07-29 19:08:14,214][__main__][INFO] - Epoch 72 (72/100):
+[2021-07-29 19:11:28,859][__main__][INFO] - Best Instance Accuracy: 0.650614
+[2021-07-29 19:11:28,860][__main__][INFO] - Save model...
+[2021-07-29 19:11:28,861][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:12:17,334][__main__][INFO] - Validation Instance Accuracy: 0.845766, Class Accuracy: 0.763228
+[2021-07-29 19:12:17,335][__main__][INFO] - Epoch 73 (73/100):
+[2021-07-29 19:17:52,152][__main__][INFO] - Best Instance Accuracy: 0.651906
+[2021-07-29 19:17:52,153][__main__][INFO] - Save model...
+[2021-07-29 19:17:52,153][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:18:35,875][__main__][INFO] - Validation Instance Accuracy: 0.844254, Class Accuracy: 0.767551
+[2021-07-29 19:18:35,876][__main__][INFO] - Epoch 74 (74/100):
+[2021-07-29 19:21:47,598][__main__][INFO] - Best Instance Accuracy: 0.653040
+[2021-07-29 19:21:47,599][__main__][INFO] - Save model...
+[2021-07-29 19:21:47,599][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:22:40,797][__main__][INFO] - Validation Instance Accuracy: 0.833669, Class Accuracy: 0.743360
+[2021-07-29 19:22:40,798][__main__][INFO] - Epoch 75 (75/100):
+[2021-07-29 19:26:01,359][__main__][INFO] - Best Instance Accuracy: 0.654199
+[2021-07-29 19:26:01,359][__main__][INFO] - Save model...
+[2021-07-29 19:26:01,359][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:26:55,817][__main__][INFO] - Validation Instance Accuracy: 0.848790, Class Accuracy: 0.779848
+[2021-07-29 19:26:55,817][__main__][INFO] - Epoch 76 (76/100):
+[2021-07-29 19:30:09,209][__main__][INFO] - Best Instance Accuracy: 0.655321
+[2021-07-29 19:30:09,210][__main__][INFO] - Save model...
+[2021-07-29 19:30:09,211][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:32:44,674][__main__][INFO] - Validation Instance Accuracy: 0.836190, Class Accuracy: 0.739128
+[2021-07-29 19:32:44,675][__main__][INFO] - Epoch 77 (77/100):
+[2021-07-29 19:35:33,904][__main__][INFO] - Best Instance Accuracy: 0.656430
+[2021-07-29 19:35:33,905][__main__][INFO] - Save model...
+[2021-07-29 19:35:33,905][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:36:16,534][__main__][INFO] - Validation Instance Accuracy: 0.836694, Class Accuracy: 0.767079
+[2021-07-29 19:36:16,535][__main__][INFO] - Epoch 78 (78/100):
+[2021-07-29 19:39:34,432][__main__][INFO] - Best Instance Accuracy: 0.657477
+[2021-07-29 19:39:34,434][__main__][INFO] - Save model...
+[2021-07-29 19:39:34,434][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:40:18,680][__main__][INFO] - Validation Instance Accuracy: 0.835181, Class Accuracy: 0.755971
+[2021-07-29 19:40:18,681][__main__][INFO] - Epoch 79 (79/100):
+[2021-07-29 19:45:38,729][__main__][INFO] - Best Instance Accuracy: 0.658409
+[2021-07-29 19:45:38,730][__main__][INFO] - Save model...
+[2021-07-29 19:45:38,730][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:46:23,541][__main__][INFO] - Validation Instance Accuracy: 0.843246, Class Accuracy: 0.763776
+[2021-07-29 19:46:23,542][__main__][INFO] - Epoch 80 (80/100):
+[2021-07-29 19:49:11,515][__main__][INFO] - Best Instance Accuracy: 0.659423
+[2021-07-29 19:49:11,515][__main__][INFO] - Save model...
+[2021-07-29 19:49:11,515][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:49:54,729][__main__][INFO] - Validation Instance Accuracy: 0.835685, Class Accuracy: 0.763460
+[2021-07-29 19:49:54,730][__main__][INFO] - Epoch 81 (81/100):
+[2021-07-29 19:52:42,720][__main__][INFO] - Best Instance Accuracy: 0.660411
+[2021-07-29 19:52:42,720][__main__][INFO] - Save model...
+[2021-07-29 19:52:42,720][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:53:26,107][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.763274
+[2021-07-29 19:53:26,107][__main__][INFO] - Epoch 82 (82/100):
+[2021-07-29 19:56:14,621][__main__][INFO] - Best Instance Accuracy: 0.661414
+[2021-07-29 19:56:14,623][__main__][INFO] - Save model...
+[2021-07-29 19:56:14,623][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 19:56:59,317][__main__][INFO] - Validation Instance Accuracy: 0.831149, Class Accuracy: 0.741406
+[2021-07-29 19:56:59,317][__main__][INFO] - Epoch 83 (83/100):
+[2021-07-29 19:59:47,938][__main__][INFO] - Best Instance Accuracy: 0.662348
+[2021-07-29 19:59:47,939][__main__][INFO] - Save model...
+[2021-07-29 19:59:47,939][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:00:32,457][__main__][INFO] - Validation Instance Accuracy: 0.843750, Class Accuracy: 0.772123
+[2021-07-29 20:00:32,458][__main__][INFO] - Epoch 84 (84/100):
+[2021-07-29 20:03:19,586][__main__][INFO] - Best Instance Accuracy: 0.663226
+[2021-07-29 20:03:19,586][__main__][INFO] - Save model...
+[2021-07-29 20:03:19,587][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:04:02,892][__main__][INFO] - Validation Instance Accuracy: 0.837198, Class Accuracy: 0.759658
+[2021-07-29 20:04:02,893][__main__][INFO] - Epoch 85 (85/100):
+[2021-07-29 20:06:50,644][__main__][INFO] - Best Instance Accuracy: 0.664138
+[2021-07-29 20:06:50,644][__main__][INFO] - Save model...
+[2021-07-29 20:06:50,644][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:07:34,030][__main__][INFO] - Validation Instance Accuracy: 0.836190, Class Accuracy: 0.752267
+[2021-07-29 20:07:34,031][__main__][INFO] - Epoch 86 (86/100):
+[2021-07-29 20:10:22,054][__main__][INFO] - Best Instance Accuracy: 0.665009
+[2021-07-29 20:10:22,055][__main__][INFO] - Save model...
+[2021-07-29 20:10:22,055][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:11:06,038][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.773113
+[2021-07-29 20:11:06,039][__main__][INFO] - Epoch 87 (87/100):
+[2021-07-29 20:14:04,262][__main__][INFO] - Best Instance Accuracy: 0.665950
+[2021-07-29 20:14:04,264][__main__][INFO] - Save model...
+[2021-07-29 20:14:04,264][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:19:20,802][__main__][INFO] - Validation Instance Accuracy: 0.848286, Class Accuracy: 0.762735
+[2021-07-29 20:19:20,803][__main__][INFO] - Epoch 88 (88/100):
+[2021-07-29 20:29:04,302][__main__][INFO] - Best Instance Accuracy: 0.666852
+[2021-07-29 20:29:04,303][__main__][INFO] - Save model...
+[2021-07-29 20:29:04,303][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:29:49,130][__main__][INFO] - Validation Instance Accuracy: 0.843246, Class Accuracy: 0.758546
+[2021-07-29 20:29:49,131][__main__][INFO] - Epoch 89 (89/100):
+[2021-07-29 20:33:55,576][__main__][INFO] - Best Instance Accuracy: 0.667673
+[2021-07-29 20:33:55,577][__main__][INFO] - Save model...
+[2021-07-29 20:33:55,577][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:34:40,692][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.756653
+[2021-07-29 20:34:40,692][__main__][INFO] - Epoch 90 (90/100):
+[2021-07-29 20:46:21,197][__main__][INFO] - Best Instance Accuracy: 0.668515
+[2021-07-29 20:46:21,198][__main__][INFO] - Save model...
+[2021-07-29 20:46:21,198][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:47:24,061][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.763112
+[2021-07-29 20:47:24,063][__main__][INFO] - Epoch 91 (91/100):
+[2021-07-29 20:51:13,218][__main__][INFO] - Best Instance Accuracy: 0.669366
+[2021-07-29 20:51:13,219][__main__][INFO] - Save model...
+[2021-07-29 20:51:13,219][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:53:31,362][__main__][INFO] - Validation Instance Accuracy: 0.840222, Class Accuracy: 0.773868
+[2021-07-29 20:53:31,363][__main__][INFO] - Epoch 92 (92/100):
+[2021-07-29 20:56:24,572][__main__][INFO] - Best Instance Accuracy: 0.670124
+[2021-07-29 20:56:24,573][__main__][INFO] - Save model...
+[2021-07-29 20:56:24,573][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 20:57:09,457][__main__][INFO] - Validation Instance Accuracy: 0.842742, Class Accuracy: 0.763601
+[2021-07-29 20:57:09,457][__main__][INFO] - Epoch 93 (93/100):
+[2021-07-29 21:06:02,312][__main__][INFO] - Best Instance Accuracy: 0.670922
+[2021-07-29 21:06:02,313][__main__][INFO] - Save model...
+[2021-07-29 21:06:02,313][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:06:55,559][__main__][INFO] - Validation Instance Accuracy: 0.847278, Class Accuracy: 0.764092
+[2021-07-29 21:06:55,561][__main__][INFO] - Epoch 94 (94/100):
+[2021-07-29 21:09:54,767][__main__][INFO] - Best Instance Accuracy: 0.671723
+[2021-07-29 21:09:54,769][__main__][INFO] - Save model...
+[2021-07-29 21:09:54,769][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:10:39,135][__main__][INFO] - Validation Instance Accuracy: 0.827117, Class Accuracy: 0.743324
+[2021-07-29 21:10:39,138][__main__][INFO] - Epoch 95 (95/100):
+[2021-07-29 21:13:31,268][__main__][INFO] - Best Instance Accuracy: 0.672558
+[2021-07-29 21:13:31,268][__main__][INFO] - Save model...
+[2021-07-29 21:13:31,268][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:14:15,545][__main__][INFO] - Validation Instance Accuracy: 0.843246, Class Accuracy: 0.760194
+[2021-07-29 21:14:15,546][__main__][INFO] - Epoch 96 (96/100):
+[2021-07-29 21:17:04,330][__main__][INFO] - Best Instance Accuracy: 0.673336
+[2021-07-29 21:17:04,330][__main__][INFO] - Save model...
+[2021-07-29 21:17:04,330][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:17:47,449][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.767509
+[2021-07-29 21:17:47,450][__main__][INFO] - Epoch 97 (97/100):
+[2021-07-29 21:21:46,661][__main__][INFO] - Best Instance Accuracy: 0.674025
+[2021-07-29 21:21:46,662][__main__][INFO] - Save model...
+[2021-07-29 21:21:46,662][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:22:39,850][__main__][INFO] - Validation Instance Accuracy: 0.845262, Class Accuracy: 0.756369
+[2021-07-29 21:22:39,851][__main__][INFO] - Epoch 98 (98/100):
+[2021-07-29 21:25:32,871][__main__][INFO] - Best Instance Accuracy: 0.674709
+[2021-07-29 21:25:32,871][__main__][INFO] - Save model...
+[2021-07-29 21:25:32,871][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:26:19,031][__main__][INFO] - Validation Instance Accuracy: 0.844758, Class Accuracy: 0.783293
+[2021-07-29 21:26:19,031][__main__][INFO] - Epoch 99 (99/100):
+[2021-07-29 21:29:08,868][__main__][INFO] - Best Instance Accuracy: 0.675341
+[2021-07-29 21:29:08,869][__main__][INFO] - Save model...
+[2021-07-29 21:29:08,869][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:29:53,020][__main__][INFO] - Validation Instance Accuracy: 0.849798, Class Accuracy: 0.782916
+[2021-07-29 21:29:53,020][__main__][INFO] - Epoch 100 (100/100):
+[2021-07-29 21:33:01,457][__main__][INFO] - Best Instance Accuracy: 0.676076
+[2021-07-29 21:33:01,458][__main__][INFO] - Save model...
+[2021-07-29 21:33:01,458][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-29 21:33:54,026][__main__][INFO] - Validation Instance Accuracy: 0.847278, Class Accuracy: 0.771853
+[2021-07-29 21:33:54,027][__main__][INFO] - End of training...
+[2021-07-29 21:33:54,027][__main__][INFO] - Test
+[2021-07-29 21:35:21,068][__main__][INFO] - Test Instance Accuracy: 0.822177, Class Accuracy: 0.760951
+[2021-07-30 10:58:38,742][__main__][INFO] - Use pretrain model
+[2021-07-30 10:58:38,766][__main__][INFO] - Start training...
+[2021-07-30 10:58:38,766][__main__][INFO] - Epoch 1 (101/200):
+[2021-07-30 11:01:47,469][__main__][INFO] - Best Instance Accuracy: 0.681922
+[2021-07-30 11:01:47,473][__main__][INFO] - Save model...
+[2021-07-30 11:01:47,473][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:02:36,461][__main__][INFO] - Validation Instance Accuracy: 0.813508, Class Accuracy: 0.706442
+[2021-07-30 11:02:36,461][__main__][INFO] - Epoch 2 (102/200):
+[2021-07-30 11:05:22,891][__main__][INFO] - Validation Instance Accuracy: 0.826109, Class Accuracy: 0.723061
+[2021-07-30 11:05:22,891][__main__][INFO] - Epoch 3 (103/200):
+[2021-07-30 11:07:34,420][__main__][INFO] - Best Instance Accuracy: 0.682767
+[2021-07-30 11:07:34,421][__main__][INFO] - Save model...
+[2021-07-30 11:07:34,421][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:08:07,584][__main__][INFO] - Validation Instance Accuracy: 0.823589, Class Accuracy: 0.744788
+[2021-07-30 11:08:07,584][__main__][INFO] - Epoch 4 (104/200):
+[2021-07-30 11:10:18,219][__main__][INFO] - Best Instance Accuracy: 0.683285
+[2021-07-30 11:10:18,219][__main__][INFO] - Save model...
+[2021-07-30 11:10:18,219][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:10:52,172][__main__][INFO] - Validation Instance Accuracy: 0.836190, Class Accuracy: 0.758524
+[2021-07-30 11:10:52,173][__main__][INFO] - Epoch 5 (105/200):
+[2021-07-30 11:13:02,429][__main__][INFO] - Best Instance Accuracy: 0.684153
+[2021-07-30 11:13:02,429][__main__][INFO] - Save model...
+[2021-07-30 11:13:02,429][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:13:35,878][__main__][INFO] - Validation Instance Accuracy: 0.822581, Class Accuracy: 0.727639
+[2021-07-30 11:13:35,878][__main__][INFO] - Epoch 6 (106/200):
+[2021-07-30 11:15:48,311][__main__][INFO] - Best Instance Accuracy: 0.684457
+[2021-07-30 11:15:48,311][__main__][INFO] - Save model...
+[2021-07-30 11:15:48,311][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:16:22,774][__main__][INFO] - Validation Instance Accuracy: 0.814012, Class Accuracy: 0.731189
+[2021-07-30 11:16:22,775][__main__][INFO] - Epoch 7 (107/200):
+[2021-07-30 11:18:35,316][__main__][INFO] - Best Instance Accuracy: 0.685254
+[2021-07-30 11:18:35,317][__main__][INFO] - Save model...
+[2021-07-30 11:18:35,317][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:19:10,339][__main__][INFO] - Validation Instance Accuracy: 0.825101, Class Accuracy: 0.744082
+[2021-07-30 11:19:10,339][__main__][INFO] - Epoch 8 (108/200):
+[2021-07-30 11:21:23,487][__main__][INFO] - Best Instance Accuracy: 0.686121
+[2021-07-30 11:21:23,488][__main__][INFO] - Save model...
+[2021-07-30 11:21:23,488][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:21:57,086][__main__][INFO] - Validation Instance Accuracy: 0.841734, Class Accuracy: 0.758198
+[2021-07-30 11:21:57,086][__main__][INFO] - Epoch 9 (109/200):
+[2021-07-30 11:24:06,379][__main__][INFO] - Best Instance Accuracy: 0.686655
+[2021-07-30 11:24:06,379][__main__][INFO] - Save model...
+[2021-07-30 11:24:06,416][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:24:39,896][__main__][INFO] - Validation Instance Accuracy: 0.824093, Class Accuracy: 0.759896
+[2021-07-30 11:24:39,897][__main__][INFO] - Epoch 10 (110/200):
+[2021-07-30 11:27:24,581][__main__][INFO] - Validation Instance Accuracy: 0.834677, Class Accuracy: 0.741229
+[2021-07-30 11:27:24,581][__main__][INFO] - Epoch 11 (111/200):
+[2021-07-30 11:30:08,762][__main__][INFO] - Validation Instance Accuracy: 0.829133, Class Accuracy: 0.737433
+[2021-07-30 11:30:08,793][__main__][INFO] - Epoch 12 (112/200):
+[2021-07-30 11:32:53,127][__main__][INFO] - Validation Instance Accuracy: 0.819556, Class Accuracy: 0.727152
+[2021-07-30 11:32:53,129][__main__][INFO] - Epoch 13 (113/200):
+[2021-07-30 11:35:37,499][__main__][INFO] - Validation Instance Accuracy: 0.831653, Class Accuracy: 0.748803
+[2021-07-30 11:35:37,502][__main__][INFO] - Epoch 14 (114/200):
+[2021-07-30 11:38:21,326][__main__][INFO] - Validation Instance Accuracy: 0.835685, Class Accuracy: 0.766335
+[2021-07-30 11:38:21,327][__main__][INFO] - Epoch 15 (115/200):
+[2021-07-30 11:41:04,394][__main__][INFO] - Validation Instance Accuracy: 0.826613, Class Accuracy: 0.727866
+[2021-07-30 11:41:04,419][__main__][INFO] - Epoch 16 (116/200):
+[2021-07-30 11:43:14,926][__main__][INFO] - Best Instance Accuracy: 0.686787
+[2021-07-30 11:43:14,966][__main__][INFO] - Save model...
+[2021-07-30 11:43:14,966][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:43:48,711][__main__][INFO] - Validation Instance Accuracy: 0.841230, Class Accuracy: 0.763274
+[2021-07-30 11:43:48,712][__main__][INFO] - Epoch 17 (117/200):
+[2021-07-30 11:46:00,094][__main__][INFO] - Best Instance Accuracy: 0.687209
+[2021-07-30 11:46:00,129][__main__][INFO] - Save model...
+[2021-07-30 11:46:00,129][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:46:33,962][__main__][INFO] - Validation Instance Accuracy: 0.814012, Class Accuracy: 0.737560
+[2021-07-30 11:46:33,962][__main__][INFO] - Epoch 18 (118/200):
+[2021-07-30 11:48:45,051][__main__][INFO] - Best Instance Accuracy: 0.687253
+[2021-07-30 11:48:45,104][__main__][INFO] - Save model...
+[2021-07-30 11:48:45,104][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:49:19,664][__main__][INFO] - Validation Instance Accuracy: 0.837702, Class Accuracy: 0.748437
+[2021-07-30 11:49:19,665][__main__][INFO] - Epoch 19 (119/200):
+[2021-07-30 11:51:31,420][__main__][INFO] - Best Instance Accuracy: 0.687647
+[2021-07-30 11:51:31,442][__main__][INFO] - Save model...
+[2021-07-30 11:51:31,442][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:52:05,908][__main__][INFO] - Validation Instance Accuracy: 0.836190, Class Accuracy: 0.760916
+[2021-07-30 11:52:05,908][__main__][INFO] - Epoch 20 (120/200):
+[2021-07-30 11:54:17,996][__main__][INFO] - Best Instance Accuracy: 0.687944
+[2021-07-30 11:54:18,028][__main__][INFO] - Save model...
+[2021-07-30 11:54:18,028][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:54:52,376][__main__][INFO] - Validation Instance Accuracy: 0.829133, Class Accuracy: 0.759004
+[2021-07-30 11:54:52,400][__main__][INFO] - Epoch 21 (121/200):
+[2021-07-30 11:57:11,190][__main__][INFO] - Best Instance Accuracy: 0.688387
+[2021-07-30 11:57:11,210][__main__][INFO] - Save model...
+[2021-07-30 11:57:11,210][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 11:57:47,291][__main__][INFO] - Validation Instance Accuracy: 0.822077, Class Accuracy: 0.717071
+[2021-07-30 11:57:47,291][__main__][INFO] - Epoch 22 (122/200):
+[2021-07-30 12:00:03,031][__main__][INFO] - Best Instance Accuracy: 0.688987
+[2021-07-30 12:00:03,081][__main__][INFO] - Save model...
+[2021-07-30 12:00:03,081][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:00:38,181][__main__][INFO] - Validation Instance Accuracy: 0.821069, Class Accuracy: 0.711536
+[2021-07-30 12:00:38,182][__main__][INFO] - Epoch 23 (123/200):
+[2021-07-30 12:02:52,047][__main__][INFO] - Best Instance Accuracy: 0.689528
+[2021-07-30 12:02:52,055][__main__][INFO] - Save model...
+[2021-07-30 12:02:52,055][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:03:25,935][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.752398
+[2021-07-30 12:03:25,936][__main__][INFO] - Epoch 24 (124/200):
+[2021-07-30 12:05:38,053][__main__][INFO] - Best Instance Accuracy: 0.689560
+[2021-07-30 12:05:38,079][__main__][INFO] - Save model...
+[2021-07-30 12:05:38,080][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:06:12,189][__main__][INFO] - Validation Instance Accuracy: 0.818044, Class Accuracy: 0.733671
+[2021-07-30 12:06:12,191][__main__][INFO] - Epoch 25 (125/200):
+[2021-07-30 12:08:23,271][__main__][INFO] - Best Instance Accuracy: 0.689833
+[2021-07-30 12:08:23,321][__main__][INFO] - Save model...
+[2021-07-30 12:08:23,321][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:08:56,908][__main__][INFO] - Validation Instance Accuracy: 0.826109, Class Accuracy: 0.740669
+[2021-07-30 12:08:56,909][__main__][INFO] - Epoch 26 (126/200):
+[2021-07-30 12:11:08,106][__main__][INFO] - Best Instance Accuracy: 0.690187
+[2021-07-30 12:11:08,147][__main__][INFO] - Save model...
+[2021-07-30 12:11:08,147][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:11:42,001][__main__][INFO] - Validation Instance Accuracy: 0.810484, Class Accuracy: 0.714378
+[2021-07-30 12:11:42,001][__main__][INFO] - Epoch 27 (127/200):
+[2021-07-30 12:14:26,249][__main__][INFO] - Validation Instance Accuracy: 0.814516, Class Accuracy: 0.738044
+[2021-07-30 12:14:26,270][__main__][INFO] - Epoch 28 (128/200):
+[2021-07-30 12:16:38,723][__main__][INFO] - Best Instance Accuracy: 0.690534
+[2021-07-30 12:16:38,737][__main__][INFO] - Save model...
+[2021-07-30 12:16:38,737][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:17:12,210][__main__][INFO] - Validation Instance Accuracy: 0.829637, Class Accuracy: 0.743039
+[2021-07-30 12:17:12,211][__main__][INFO] - Epoch 29 (129/200):
+[2021-07-30 12:19:23,885][__main__][INFO] - Best Instance Accuracy: 0.690757
+[2021-07-30 12:19:23,920][__main__][INFO] - Save model...
+[2021-07-30 12:19:23,921][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:19:58,019][__main__][INFO] - Validation Instance Accuracy: 0.823085, Class Accuracy: 0.728946
+[2021-07-30 12:19:58,051][__main__][INFO] - Epoch 30 (130/200):
+[2021-07-30 12:22:10,250][__main__][INFO] - Best Instance Accuracy: 0.691062
+[2021-07-30 12:22:10,270][__main__][INFO] - Save model...
+[2021-07-30 12:22:10,270][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:22:44,437][__main__][INFO] - Validation Instance Accuracy: 0.819556, Class Accuracy: 0.706840
+[2021-07-30 12:22:44,438][__main__][INFO] - Epoch 31 (131/200):
+[2021-07-30 12:24:56,132][__main__][INFO] - Best Instance Accuracy: 0.691242
+[2021-07-30 12:24:56,185][__main__][INFO] - Save model...
+[2021-07-30 12:24:56,185][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:25:30,217][__main__][INFO] - Validation Instance Accuracy: 0.821573, Class Accuracy: 0.717922
+[2021-07-30 12:25:30,233][__main__][INFO] - Epoch 32 (132/200):
+[2021-07-30 12:27:41,103][__main__][INFO] - Best Instance Accuracy: 0.691418
+[2021-07-30 12:27:41,152][__main__][INFO] - Save model...
+[2021-07-30 12:27:41,152][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:28:15,354][__main__][INFO] - Validation Instance Accuracy: 0.829637, Class Accuracy: 0.735427
+[2021-07-30 12:28:15,354][__main__][INFO] - Epoch 33 (133/200):
+[2021-07-30 12:30:28,204][__main__][INFO] - Best Instance Accuracy: 0.691614
+[2021-07-30 12:30:28,234][__main__][INFO] - Save model...
+[2021-07-30 12:30:28,235][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:31:01,990][__main__][INFO] - Validation Instance Accuracy: 0.800403, Class Accuracy: 0.723601
+[2021-07-30 12:31:01,990][__main__][INFO] - Epoch 34 (134/200):
+[2021-07-30 12:33:13,975][__main__][INFO] - Best Instance Accuracy: 0.691732
+[2021-07-30 12:33:13,987][__main__][INFO] - Save model...
+[2021-07-30 12:33:13,987][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:33:48,207][__main__][INFO] - Validation Instance Accuracy: 0.827117, Class Accuracy: 0.760573
+[2021-07-30 12:33:48,207][__main__][INFO] - Epoch 35 (135/200):
+[2021-07-30 12:36:02,213][__main__][INFO] - Best Instance Accuracy: 0.692111
+[2021-07-30 12:36:02,249][__main__][INFO] - Save model...
+[2021-07-30 12:36:02,250][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:36:37,056][__main__][INFO] - Validation Instance Accuracy: 0.833669, Class Accuracy: 0.752427
+[2021-07-30 12:36:37,057][__main__][INFO] - Epoch 36 (136/200):
+[2021-07-30 12:38:51,638][__main__][INFO] - Best Instance Accuracy: 0.692458
+[2021-07-30 12:38:51,656][__main__][INFO] - Save model...
+[2021-07-30 12:38:51,656][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:39:26,911][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.758129
+[2021-07-30 12:39:26,912][__main__][INFO] - Epoch 37 (137/200):
+[2021-07-30 12:41:41,395][__main__][INFO] - Best Instance Accuracy: 0.692544
+[2021-07-30 12:41:41,421][__main__][INFO] - Save model...
+[2021-07-30 12:41:41,422][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:42:15,831][__main__][INFO] - Validation Instance Accuracy: 0.823085, Class Accuracy: 0.734834
+[2021-07-30 12:42:15,832][__main__][INFO] - Epoch 38 (138/200):
+[2021-07-30 12:44:28,386][__main__][INFO] - Best Instance Accuracy: 0.692588
+[2021-07-30 12:44:28,404][__main__][INFO] - Save model...
+[2021-07-30 12:44:28,404][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:45:02,373][__main__][INFO] - Validation Instance Accuracy: 0.833669, Class Accuracy: 0.754712
+[2021-07-30 12:45:02,374][__main__][INFO] - Epoch 39 (139/200):
+[2021-07-30 12:47:14,743][__main__][INFO] - Best Instance Accuracy: 0.692984
+[2021-07-30 12:47:14,778][__main__][INFO] - Save model...
+[2021-07-30 12:47:14,778][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:47:50,180][__main__][INFO] - Validation Instance Accuracy: 0.829637, Class Accuracy: 0.758664
+[2021-07-30 12:47:50,181][__main__][INFO] - Epoch 40 (140/200):
+[2021-07-30 12:50:06,849][__main__][INFO] - Best Instance Accuracy: 0.693129
+[2021-07-30 12:50:06,884][__main__][INFO] - Save model...
+[2021-07-30 12:50:06,884][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:50:41,313][__main__][INFO] - Validation Instance Accuracy: 0.825101, Class Accuracy: 0.758238
+[2021-07-30 12:50:41,313][__main__][INFO] - Epoch 41 (141/200):
+[2021-07-30 12:52:55,727][__main__][INFO] - Best Instance Accuracy: 0.693310
+[2021-07-30 12:52:55,766][__main__][INFO] - Save model...
+[2021-07-30 12:52:55,767][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:53:30,393][__main__][INFO] - Validation Instance Accuracy: 0.827117, Class Accuracy: 0.745898
+[2021-07-30 12:53:30,393][__main__][INFO] - Epoch 42 (142/200):
+[2021-07-30 12:55:50,624][__main__][INFO] - Best Instance Accuracy: 0.693534
+[2021-07-30 12:55:50,655][__main__][INFO] - Save model...
+[2021-07-30 12:55:50,655][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:56:26,662][__main__][INFO] - Validation Instance Accuracy: 0.844254, Class Accuracy: 0.766477
+[2021-07-30 12:56:26,667][__main__][INFO] - Epoch 43 (143/200):
+[2021-07-30 12:58:40,629][__main__][INFO] - Best Instance Accuracy: 0.693907
+[2021-07-30 12:58:40,639][__main__][INFO] - Save model...
+[2021-07-30 12:58:40,639][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 12:59:15,281][__main__][INFO] - Validation Instance Accuracy: 0.831653, Class Accuracy: 0.735261
+[2021-07-30 12:59:15,282][__main__][INFO] - Epoch 44 (144/200):
+[2021-07-30 13:01:30,633][__main__][INFO] - Best Instance Accuracy: 0.694084
+[2021-07-30 13:01:30,660][__main__][INFO] - Save model...
+[2021-07-30 13:01:30,660][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:02:05,377][__main__][INFO] - Validation Instance Accuracy: 0.831149, Class Accuracy: 0.761390
+[2021-07-30 13:02:05,377][__main__][INFO] - Epoch 45 (145/200):
+[2021-07-30 13:04:20,705][__main__][INFO] - Best Instance Accuracy: 0.694368
+[2021-07-30 13:04:20,735][__main__][INFO] - Save model...
+[2021-07-30 13:04:20,735][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:04:55,993][__main__][INFO] - Validation Instance Accuracy: 0.828629, Class Accuracy: 0.739735
+[2021-07-30 13:04:55,994][__main__][INFO] - Epoch 46 (146/200):
+[2021-07-30 13:07:22,321][__main__][INFO] - Best Instance Accuracy: 0.694586
+[2021-07-30 13:07:22,361][__main__][INFO] - Save model...
+[2021-07-30 13:07:22,361][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:08:03,759][__main__][INFO] - Validation Instance Accuracy: 0.826613, Class Accuracy: 0.734864
+[2021-07-30 13:08:03,760][__main__][INFO] - Epoch 47 (147/200):
+[2021-07-30 13:10:36,295][__main__][INFO] - Best Instance Accuracy: 0.694713
+[2021-07-30 13:10:36,317][__main__][INFO] - Save model...
+[2021-07-30 13:10:36,317][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:11:11,456][__main__][INFO] - Validation Instance Accuracy: 0.822077, Class Accuracy: 0.715646
+[2021-07-30 13:11:11,456][__main__][INFO] - Epoch 48 (148/200):
+[2021-07-30 13:13:26,166][__main__][INFO] - Best Instance Accuracy: 0.695064
+[2021-07-30 13:13:26,193][__main__][INFO] - Save model...
+[2021-07-30 13:13:26,193][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:14:01,461][__main__][INFO] - Validation Instance Accuracy: 0.836694, Class Accuracy: 0.760106
+[2021-07-30 13:14:01,461][__main__][INFO] - Epoch 49 (149/200):
+[2021-07-30 13:16:17,644][__main__][INFO] - Best Instance Accuracy: 0.695200
+[2021-07-30 13:16:17,674][__main__][INFO] - Save model...
+[2021-07-30 13:16:17,674][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:16:52,702][__main__][INFO] - Validation Instance Accuracy: 0.840222, Class Accuracy: 0.757695
+[2021-07-30 13:16:52,703][__main__][INFO] - Epoch 50 (150/200):
+[2021-07-30 13:19:09,271][__main__][INFO] - Best Instance Accuracy: 0.695494
+[2021-07-30 13:19:09,297][__main__][INFO] - Save model...
+[2021-07-30 13:19:09,297][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:19:44,558][__main__][INFO] - Validation Instance Accuracy: 0.829133, Class Accuracy: 0.746760
+[2021-07-30 13:19:44,578][__main__][INFO] - Epoch 51 (151/200):
+[2021-07-30 13:22:02,512][__main__][INFO] - Best Instance Accuracy: 0.696685
+[2021-07-30 13:22:02,553][__main__][INFO] - Save model...
+[2021-07-30 13:22:02,553][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:22:38,623][__main__][INFO] - Validation Instance Accuracy: 0.843246, Class Accuracy: 0.765284
+[2021-07-30 13:22:38,624][__main__][INFO] - Epoch 52 (152/200):
+[2021-07-30 13:24:59,670][__main__][INFO] - Best Instance Accuracy: 0.698086
+[2021-07-30 13:24:59,724][__main__][INFO] - Save model...
+[2021-07-30 13:24:59,724][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:25:38,090][__main__][INFO] - Validation Instance Accuracy: 0.849798, Class Accuracy: 0.782005
+[2021-07-30 13:25:38,105][__main__][INFO] - Epoch 53 (153/200):
+[2021-07-30 13:28:09,091][__main__][INFO] - Best Instance Accuracy: 0.699340
+[2021-07-30 13:28:09,134][__main__][INFO] - Save model...
+[2021-07-30 13:28:09,134][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:28:46,718][__main__][INFO] - Validation Instance Accuracy: 0.851815, Class Accuracy: 0.781578
+[2021-07-30 13:28:46,719][__main__][INFO] - Epoch 54 (154/200):
+[2021-07-30 13:31:07,979][__main__][INFO] - Best Instance Accuracy: 0.700450
+[2021-07-30 13:31:08,021][__main__][INFO] - Save model...
+[2021-07-30 13:31:08,021][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:31:44,950][__main__][INFO] - Validation Instance Accuracy: 0.855847, Class Accuracy: 0.790621
+[2021-07-30 13:31:44,968][__main__][INFO] - Epoch 55 (155/200):
+[2021-07-30 13:34:04,163][__main__][INFO] - Best Instance Accuracy: 0.701627
+[2021-07-30 13:34:04,218][__main__][INFO] - Save model...
+[2021-07-30 13:34:04,218][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:34:40,818][__main__][INFO] - Validation Instance Accuracy: 0.855343, Class Accuracy: 0.778364
+[2021-07-30 13:34:40,849][__main__][INFO] - Epoch 56 (156/200):
+[2021-07-30 13:37:00,610][__main__][INFO] - Best Instance Accuracy: 0.702944
+[2021-07-30 13:37:00,656][__main__][INFO] - Save model...
+[2021-07-30 13:37:00,656][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:37:36,164][__main__][INFO] - Validation Instance Accuracy: 0.854839, Class Accuracy: 0.778510
+[2021-07-30 13:37:36,165][__main__][INFO] - Epoch 57 (157/200):
+[2021-07-30 13:39:52,548][__main__][INFO] - Best Instance Accuracy: 0.703976
+[2021-07-30 13:39:52,571][__main__][INFO] - Save model...
+[2021-07-30 13:39:52,571][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:40:27,012][__main__][INFO] - Validation Instance Accuracy: 0.851815, Class Accuracy: 0.772783
+[2021-07-30 13:40:27,027][__main__][INFO] - Epoch 58 (158/200):
+[2021-07-30 13:42:42,548][__main__][INFO] - Best Instance Accuracy: 0.705065
+[2021-07-30 13:42:42,561][__main__][INFO] - Save model...
+[2021-07-30 13:42:42,561][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:43:17,401][__main__][INFO] - Validation Instance Accuracy: 0.855847, Class Accuracy: 0.786841
+[2021-07-30 13:43:17,401][__main__][INFO] - Epoch 59 (159/200):
+[2021-07-30 13:45:34,469][__main__][INFO] - Best Instance Accuracy: 0.706286
+[2021-07-30 13:45:34,525][__main__][INFO] - Save model...
+[2021-07-30 13:45:34,526][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:46:10,446][__main__][INFO] - Validation Instance Accuracy: 0.849294, Class Accuracy: 0.770267
+[2021-07-30 13:46:10,447][__main__][INFO] - Epoch 60 (160/200):
+[2021-07-30 13:48:26,624][__main__][INFO] - Best Instance Accuracy: 0.707194
+[2021-07-30 13:48:26,665][__main__][INFO] - Save model...
+[2021-07-30 13:48:26,665][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:49:01,520][__main__][INFO] - Validation Instance Accuracy: 0.849294, Class Accuracy: 0.764317
+[2021-07-30 13:49:01,522][__main__][INFO] - Epoch 61 (161/200):
+[2021-07-30 13:51:17,382][__main__][INFO] - Best Instance Accuracy: 0.708156
+[2021-07-30 13:51:17,405][__main__][INFO] - Save model...
+[2021-07-30 13:51:17,405][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:51:53,373][__main__][INFO] - Validation Instance Accuracy: 0.840726, Class Accuracy: 0.774404
+[2021-07-30 13:51:53,374][__main__][INFO] - Epoch 62 (162/200):
+[2021-07-30 13:54:08,820][__main__][INFO] - Best Instance Accuracy: 0.709123
+[2021-07-30 13:54:08,861][__main__][INFO] - Save model...
+[2021-07-30 13:54:08,861][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:54:44,247][__main__][INFO] - Validation Instance Accuracy: 0.852319, Class Accuracy: 0.770605
+[2021-07-30 13:54:44,248][__main__][INFO] - Epoch 63 (163/200):
+[2021-07-30 13:57:01,234][__main__][INFO] - Best Instance Accuracy: 0.710046
+[2021-07-30 13:57:01,235][__main__][INFO] - Save model...
+[2021-07-30 13:57:01,235][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 13:57:36,701][__main__][INFO] - Validation Instance Accuracy: 0.842742, Class Accuracy: 0.768389
+[2021-07-30 13:57:36,702][__main__][INFO] - Epoch 64 (164/200):
+[2021-07-30 13:59:55,295][__main__][INFO] - Best Instance Accuracy: 0.711062
+[2021-07-30 13:59:55,340][__main__][INFO] - Save model...
+[2021-07-30 13:59:55,340][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:00:30,737][__main__][INFO] - Validation Instance Accuracy: 0.842238, Class Accuracy: 0.776207
+[2021-07-30 14:00:30,737][__main__][INFO] - Epoch 65 (165/200):
+[2021-07-30 14:02:45,765][__main__][INFO] - Best Instance Accuracy: 0.711868
+[2021-07-30 14:02:45,766][__main__][INFO] - Save model...
+[2021-07-30 14:02:45,766][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:03:20,450][__main__][INFO] - Validation Instance Accuracy: 0.854839, Class Accuracy: 0.772905
+[2021-07-30 14:03:20,450][__main__][INFO] - Epoch 66 (166/200):
+[2021-07-30 14:05:33,845][__main__][INFO] - Best Instance Accuracy: 0.712767
+[2021-07-30 14:05:33,846][__main__][INFO] - Save model...
+[2021-07-30 14:05:33,846][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:06:09,442][__main__][INFO] - Validation Instance Accuracy: 0.857863, Class Accuracy: 0.791017
+[2021-07-30 14:06:09,443][__main__][INFO] - Epoch 67 (167/200):
+[2021-07-30 14:08:23,575][__main__][INFO] - Best Instance Accuracy: 0.713669
+[2021-07-30 14:08:23,598][__main__][INFO] - Save model...
+[2021-07-30 14:08:23,598][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:08:58,148][__main__][INFO] - Validation Instance Accuracy: 0.854335, Class Accuracy: 0.779686
+[2021-07-30 14:08:58,167][__main__][INFO] - Epoch 68 (168/200):
+[2021-07-30 14:11:10,527][__main__][INFO] - Best Instance Accuracy: 0.714509
+[2021-07-30 14:11:10,577][__main__][INFO] - Save model...
+[2021-07-30 14:11:10,577][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:11:45,573][__main__][INFO] - Validation Instance Accuracy: 0.850302, Class Accuracy: 0.767877
+[2021-07-30 14:11:45,592][__main__][INFO] - Epoch 69 (169/200):
+[2021-07-30 14:13:57,849][__main__][INFO] - Best Instance Accuracy: 0.715220
+[2021-07-30 14:13:57,868][__main__][INFO] - Save model...
+[2021-07-30 14:13:57,868][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:14:32,342][__main__][INFO] - Validation Instance Accuracy: 0.841734, Class Accuracy: 0.776401
+[2021-07-30 14:14:32,342][__main__][INFO] - Epoch 70 (170/200):
+[2021-07-30 14:16:44,846][__main__][INFO] - Best Instance Accuracy: 0.715852
+[2021-07-30 14:16:44,876][__main__][INFO] - Save model...
+[2021-07-30 14:16:44,876][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:17:19,910][__main__][INFO] - Validation Instance Accuracy: 0.851815, Class Accuracy: 0.777692
+[2021-07-30 14:17:19,924][__main__][INFO] - Epoch 71 (171/200):
+[2021-07-30 14:19:34,482][__main__][INFO] - Best Instance Accuracy: 0.716667
+[2021-07-30 14:19:34,516][__main__][INFO] - Save model...
+[2021-07-30 14:19:34,516][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:20:09,291][__main__][INFO] - Validation Instance Accuracy: 0.858367, Class Accuracy: 0.795054
+[2021-07-30 14:20:09,291][__main__][INFO] - Epoch 72 (172/200):
+[2021-07-30 14:22:21,931][__main__][INFO] - Best Instance Accuracy: 0.717392
+[2021-07-30 14:22:21,982][__main__][INFO] - Save model...
+[2021-07-30 14:22:21,982][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:22:56,844][__main__][INFO] - Validation Instance Accuracy: 0.855343, Class Accuracy: 0.780968
+[2021-07-30 14:22:56,845][__main__][INFO] - Epoch 73 (173/200):
+[2021-07-30 14:25:13,082][__main__][INFO] - Best Instance Accuracy: 0.718167
+[2021-07-30 14:25:13,105][__main__][INFO] - Save model...
+[2021-07-30 14:25:13,105][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:25:47,705][__main__][INFO] - Validation Instance Accuracy: 0.849294, Class Accuracy: 0.775658
+[2021-07-30 14:25:47,706][__main__][INFO] - Epoch 74 (174/200):
+[2021-07-30 14:28:03,895][__main__][INFO] - Best Instance Accuracy: 0.718803
+[2021-07-30 14:28:03,937][__main__][INFO] - Save model...
+[2021-07-30 14:28:03,937][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:28:38,645][__main__][INFO] - Validation Instance Accuracy: 0.855847, Class Accuracy: 0.784963
+[2021-07-30 14:28:38,645][__main__][INFO] - Epoch 75 (175/200):
+[2021-07-30 14:30:52,158][__main__][INFO] - Best Instance Accuracy: 0.719581
+[2021-07-30 14:30:52,159][__main__][INFO] - Save model...
+[2021-07-30 14:30:52,159][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:31:26,144][__main__][INFO] - Validation Instance Accuracy: 0.857359, Class Accuracy: 0.785020
+[2021-07-30 14:31:26,145][__main__][INFO] - Epoch 76 (176/200):
+[2021-07-30 14:33:39,317][__main__][INFO] - Best Instance Accuracy: 0.720211
+[2021-07-30 14:33:39,336][__main__][INFO] - Save model...
+[2021-07-30 14:33:39,336][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:34:13,344][__main__][INFO] - Validation Instance Accuracy: 0.848286, Class Accuracy: 0.759170
+[2021-07-30 14:34:13,344][__main__][INFO] - Epoch 77 (177/200):
+[2021-07-30 14:36:25,371][__main__][INFO] - Best Instance Accuracy: 0.720883
+[2021-07-30 14:36:25,418][__main__][INFO] - Save model...
+[2021-07-30 14:36:25,419][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:36:59,871][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.773933
+[2021-07-30 14:36:59,871][__main__][INFO] - Epoch 78 (178/200):
+[2021-07-30 14:39:11,071][__main__][INFO] - Best Instance Accuracy: 0.721487
+[2021-07-30 14:39:11,093][__main__][INFO] - Save model...
+[2021-07-30 14:39:11,093][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:39:45,821][__main__][INFO] - Validation Instance Accuracy: 0.845262, Class Accuracy: 0.780769
+[2021-07-30 14:39:45,844][__main__][INFO] - Epoch 79 (179/200):
+[2021-07-30 14:42:01,367][__main__][INFO] - Best Instance Accuracy: 0.722090
+[2021-07-30 14:42:01,389][__main__][INFO] - Save model...
+[2021-07-30 14:42:01,390][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:42:36,011][__main__][INFO] - Validation Instance Accuracy: 0.853831, Class Accuracy: 0.776449
+[2021-07-30 14:42:36,012][__main__][INFO] - Epoch 80 (180/200):
+[2021-07-30 14:44:49,985][__main__][INFO] - Best Instance Accuracy: 0.722636
+[2021-07-30 14:44:50,006][__main__][INFO] - Save model...
+[2021-07-30 14:44:50,006][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:45:24,261][__main__][INFO] - Validation Instance Accuracy: 0.846774, Class Accuracy: 0.786085
+[2021-07-30 14:45:24,262][__main__][INFO] - Epoch 81 (181/200):
+[2021-07-30 14:47:35,191][__main__][INFO] - Best Instance Accuracy: 0.723168
+[2021-07-30 14:47:35,223][__main__][INFO] - Save model...
+[2021-07-30 14:47:35,223][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:48:09,837][__main__][INFO] - Validation Instance Accuracy: 0.843750, Class Accuracy: 0.770152
+[2021-07-30 14:48:09,839][__main__][INFO] - Epoch 82 (182/200):
+[2021-07-30 14:50:22,539][__main__][INFO] - Best Instance Accuracy: 0.723770
+[2021-07-30 14:50:22,540][__main__][INFO] - Save model...
+[2021-07-30 14:50:22,540][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:50:57,176][__main__][INFO] - Validation Instance Accuracy: 0.845262, Class Accuracy: 0.770684
+[2021-07-30 14:50:57,177][__main__][INFO] - Epoch 83 (183/200):
+[2021-07-30 14:53:10,187][__main__][INFO] - Best Instance Accuracy: 0.724338
+[2021-07-30 14:53:10,237][__main__][INFO] - Save model...
+[2021-07-30 14:53:10,238][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:53:43,900][__main__][INFO] - Validation Instance Accuracy: 0.847782, Class Accuracy: 0.783505
+[2021-07-30 14:53:43,901][__main__][INFO] - Epoch 84 (184/200):
+[2021-07-30 14:55:56,465][__main__][INFO] - Best Instance Accuracy: 0.724905
+[2021-07-30 14:55:56,466][__main__][INFO] - Save model...
+[2021-07-30 14:55:56,466][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:56:30,685][__main__][INFO] - Validation Instance Accuracy: 0.843246, Class Accuracy: 0.775680
+[2021-07-30 14:56:30,687][__main__][INFO] - Epoch 85 (185/200):
+[2021-07-30 14:58:41,572][__main__][INFO] - Best Instance Accuracy: 0.725409
+[2021-07-30 14:58:41,603][__main__][INFO] - Save model...
+[2021-07-30 14:58:41,604][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 14:59:15,711][__main__][INFO] - Validation Instance Accuracy: 0.845262, Class Accuracy: 0.764885
+[2021-07-30 14:59:15,712][__main__][INFO] - Epoch 86 (186/200):
+[2021-07-30 15:01:28,509][__main__][INFO] - Best Instance Accuracy: 0.726054
+[2021-07-30 15:01:28,510][__main__][INFO] - Save model...
+[2021-07-30 15:01:28,510][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:02:02,888][__main__][INFO] - Validation Instance Accuracy: 0.850806, Class Accuracy: 0.794451
+[2021-07-30 15:02:02,888][__main__][INFO] - Epoch 87 (187/200):
+[2021-07-30 15:04:16,152][__main__][INFO] - Best Instance Accuracy: 0.726518
+[2021-07-30 15:04:16,153][__main__][INFO] - Save model...
+[2021-07-30 15:04:16,153][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:04:50,472][__main__][INFO] - Validation Instance Accuracy: 0.858871, Class Accuracy: 0.787773
+[2021-07-30 15:04:50,473][__main__][INFO] - Epoch 88 (188/200):
+[2021-07-30 15:07:02,515][__main__][INFO] - Best Instance Accuracy: 0.727012
+[2021-07-30 15:07:02,545][__main__][INFO] - Save model...
+[2021-07-30 15:07:02,545][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:07:36,973][__main__][INFO] - Validation Instance Accuracy: 0.852823, Class Accuracy: 0.776658
+[2021-07-30 15:07:36,974][__main__][INFO] - Epoch 89 (189/200):
+[2021-07-30 15:09:49,575][__main__][INFO] - Best Instance Accuracy: 0.727527
+[2021-07-30 15:09:49,589][__main__][INFO] - Save model...
+[2021-07-30 15:09:49,589][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:10:24,037][__main__][INFO] - Validation Instance Accuracy: 0.851815, Class Accuracy: 0.790653
+[2021-07-30 15:10:24,038][__main__][INFO] - Epoch 90 (190/200):
+[2021-07-30 15:12:39,306][__main__][INFO] - Best Instance Accuracy: 0.728068
+[2021-07-30 15:12:39,307][__main__][INFO] - Save model...
+[2021-07-30 15:12:39,307][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:13:13,775][__main__][INFO] - Validation Instance Accuracy: 0.852319, Class Accuracy: 0.782799
+[2021-07-30 15:13:13,776][__main__][INFO] - Epoch 91 (191/200):
+[2021-07-30 15:15:28,775][__main__][INFO] - Best Instance Accuracy: 0.728524
+[2021-07-30 15:15:28,797][__main__][INFO] - Save model...
+[2021-07-30 15:15:28,798][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:16:03,049][__main__][INFO] - Validation Instance Accuracy: 0.848286, Class Accuracy: 0.785980
+[2021-07-30 15:16:03,051][__main__][INFO] - Epoch 92 (192/200):
+[2021-07-30 15:18:15,587][__main__][INFO] - Best Instance Accuracy: 0.729055
+[2021-07-30 15:18:15,588][__main__][INFO] - Save model...
+[2021-07-30 15:18:15,588][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:18:50,508][__main__][INFO] - Validation Instance Accuracy: 0.857359, Class Accuracy: 0.784696
+[2021-07-30 15:18:50,510][__main__][INFO] - Epoch 93 (193/200):
+[2021-07-30 15:21:03,857][__main__][INFO] - Best Instance Accuracy: 0.729462
+[2021-07-30 15:21:03,858][__main__][INFO] - Save model...
+[2021-07-30 15:21:03,858][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:21:37,723][__main__][INFO] - Validation Instance Accuracy: 0.855343, Class Accuracy: 0.775551
+[2021-07-30 15:21:37,724][__main__][INFO] - Epoch 94 (194/200):
+[2021-07-30 15:23:51,919][__main__][INFO] - Best Instance Accuracy: 0.729899
+[2021-07-30 15:23:51,919][__main__][INFO] - Save model...
+[2021-07-30 15:23:51,919][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:24:26,895][__main__][INFO] - Validation Instance Accuracy: 0.837198, Class Accuracy: 0.759554
+[2021-07-30 15:24:26,896][__main__][INFO] - Epoch 95 (195/200):
+[2021-07-30 15:26:41,985][__main__][INFO] - Best Instance Accuracy: 0.730339
+[2021-07-30 15:26:41,986][__main__][INFO] - Save model...
+[2021-07-30 15:26:41,986][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:27:15,773][__main__][INFO] - Validation Instance Accuracy: 0.851815, Class Accuracy: 0.782319
+[2021-07-30 15:27:15,774][__main__][INFO] - Epoch 96 (196/200):
+[2021-07-30 15:29:27,571][__main__][INFO] - Best Instance Accuracy: 0.730729
+[2021-07-30 15:29:27,572][__main__][INFO] - Save model...
+[2021-07-30 15:29:27,572][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:30:01,523][__main__][INFO] - Validation Instance Accuracy: 0.851815, Class Accuracy: 0.784001
+[2021-07-30 15:30:01,524][__main__][INFO] - Epoch 97 (197/200):
+[2021-07-30 15:32:13,155][__main__][INFO] - Best Instance Accuracy: 0.731139
+[2021-07-30 15:32:13,156][__main__][INFO] - Save model...
+[2021-07-30 15:32:13,156][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:32:47,355][__main__][INFO] - Validation Instance Accuracy: 0.853327, Class Accuracy: 0.765517
+[2021-07-30 15:32:47,355][__main__][INFO] - Epoch 98 (198/200):
+[2021-07-30 15:35:02,041][__main__][INFO] - Best Instance Accuracy: 0.731561
+[2021-07-30 15:35:02,064][__main__][INFO] - Save model...
+[2021-07-30 15:35:02,064][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:35:36,007][__main__][INFO] - Validation Instance Accuracy: 0.862399, Class Accuracy: 0.800265
+[2021-07-30 15:35:36,030][__main__][INFO] - Epoch 99 (199/200):
+[2021-07-30 15:37:49,669][__main__][INFO] - Best Instance Accuracy: 0.731947
+[2021-07-30 15:37:49,670][__main__][INFO] - Save model...
+[2021-07-30 15:37:49,670][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:38:23,896][__main__][INFO] - Validation Instance Accuracy: 0.860383, Class Accuracy: 0.796502
+[2021-07-30 15:38:23,898][__main__][INFO] - Epoch 100 (200/200):
+[2021-07-30 15:40:37,212][__main__][INFO] - Best Instance Accuracy: 0.732387
+[2021-07-30 15:40:37,238][__main__][INFO] - Save model...
+[2021-07-30 15:40:37,238][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 15:41:11,395][__main__][INFO] - Validation Instance Accuracy: 0.853327, Class Accuracy: 0.780481
+[2021-07-30 15:41:11,395][__main__][INFO] - End of training...
+[2021-07-30 15:41:11,395][__main__][INFO] - Test
+[2021-07-30 15:42:04,408][__main__][INFO] - Test Instance Accuracy: 0.840323, Class Accuracy: 0.781488
+[2021-07-30 18:59:58,906][__main__][INFO] - Use pretrain model
+[2021-07-30 18:59:58,939][__main__][INFO] - Start training...
+[2021-07-30 18:59:58,939][__main__][INFO] - Epoch 1 (201/300):
+[2021-07-30 19:05:42,070][__main__][INFO] - Validation Instance Accuracy: 0.839214, Class Accuracy: 0.748811
+[2021-07-30 19:05:42,073][__main__][INFO] - Epoch 2 (202/300):
+[2021-07-30 19:09:58,705][__main__][INFO] - Validation Instance Accuracy: 0.837198, Class Accuracy: 0.754950
+[2021-07-30 19:09:58,706][__main__][INFO] - Epoch 3 (203/300):
+[2021-07-30 19:13:59,864][__main__][INFO] - Validation Instance Accuracy: 0.837198, Class Accuracy: 0.763906
+[2021-07-30 19:13:59,865][__main__][INFO] - Epoch 4 (204/300):
+[2021-07-30 19:17:50,718][__main__][INFO] - Validation Instance Accuracy: 0.847278, Class Accuracy: 0.769529
+[2021-07-30 19:17:50,719][__main__][INFO] - Epoch 5 (205/300):
+[2021-07-30 19:21:58,758][__main__][INFO] - Validation Instance Accuracy: 0.826109, Class Accuracy: 0.744296
+[2021-07-30 19:21:58,758][__main__][INFO] - Epoch 6 (206/300):
+[2021-07-30 19:26:18,487][__main__][INFO] - Validation Instance Accuracy: 0.829637, Class Accuracy: 0.749177
+[2021-07-30 19:26:18,488][__main__][INFO] - Epoch 7 (207/300):
+[2021-07-30 19:31:34,826][__main__][INFO] - Validation Instance Accuracy: 0.841230, Class Accuracy: 0.759689
+[2021-07-30 19:31:34,826][__main__][INFO] - Epoch 8 (208/300):
+[2021-07-30 19:36:04,527][__main__][INFO] - Validation Instance Accuracy: 0.846774, Class Accuracy: 0.770540
+[2021-07-30 19:36:04,527][__main__][INFO] - Epoch 9 (209/300):
+[2021-07-30 19:40:44,124][__main__][INFO] - Validation Instance Accuracy: 0.829637, Class Accuracy: 0.773822
+[2021-07-30 19:40:44,124][__main__][INFO] - Epoch 10 (210/300):
+[2021-07-30 19:44:45,047][__main__][INFO] - Validation Instance Accuracy: 0.839214, Class Accuracy: 0.761282
+[2021-07-30 19:44:45,047][__main__][INFO] - Epoch 11 (211/300):
+[2021-07-30 19:49:06,965][__main__][INFO] - Validation Instance Accuracy: 0.833669, Class Accuracy: 0.765837
+[2021-07-30 19:49:06,966][__main__][INFO] - Epoch 12 (212/300):
+[2021-07-30 19:53:06,057][__main__][INFO] - Validation Instance Accuracy: 0.840726, Class Accuracy: 0.760205
+[2021-07-30 19:53:06,058][__main__][INFO] - Epoch 13 (213/300):
+[2021-07-30 19:57:24,184][__main__][INFO] - Validation Instance Accuracy: 0.838206, Class Accuracy: 0.758659
+[2021-07-30 19:57:24,184][__main__][INFO] - Epoch 14 (214/300):
+[2021-07-30 20:01:40,346][__main__][INFO] - Validation Instance Accuracy: 0.834677, Class Accuracy: 0.753646
+[2021-07-30 20:01:40,346][__main__][INFO] - Epoch 15 (215/300):
+[2021-07-30 20:06:20,945][__main__][INFO] - Validation Instance Accuracy: 0.837702, Class Accuracy: 0.758218
+[2021-07-30 20:06:20,946][__main__][INFO] - Epoch 16 (216/300):
+[2021-07-30 20:10:47,402][__main__][INFO] - Validation Instance Accuracy: 0.848286, Class Accuracy: 0.770317
+[2021-07-30 20:10:47,403][__main__][INFO] - Epoch 17 (217/300):
+[2021-07-30 20:15:04,879][__main__][INFO] - Validation Instance Accuracy: 0.835181, Class Accuracy: 0.751570
+[2021-07-30 20:15:04,880][__main__][INFO] - Epoch 18 (218/300):
+[2021-07-30 20:19:38,354][__main__][INFO] - Validation Instance Accuracy: 0.843246, Class Accuracy: 0.766012
+[2021-07-30 20:19:38,354][__main__][INFO] - Epoch 19 (219/300):
+[2021-07-30 20:23:50,477][__main__][INFO] - Validation Instance Accuracy: 0.827117, Class Accuracy: 0.753902
+[2021-07-30 20:23:50,477][__main__][INFO] - Epoch 20 (220/300):
+[2021-07-30 20:27:54,085][__main__][INFO] - Validation Instance Accuracy: 0.832157, Class Accuracy: 0.767659
+[2021-07-30 20:27:54,085][__main__][INFO] - Epoch 21 (221/300):
+[2021-07-30 20:31:46,301][__main__][INFO] - Validation Instance Accuracy: 0.832661, Class Accuracy: 0.735999
+[2021-07-30 20:31:46,302][__main__][INFO] - Epoch 22 (222/300):
+[2021-07-30 20:35:40,275][__main__][INFO] - Validation Instance Accuracy: 0.836190, Class Accuracy: 0.738011
+[2021-07-30 20:35:40,279][__main__][INFO] - Epoch 23 (223/300):
+[2021-07-30 20:39:40,733][__main__][INFO] - Validation Instance Accuracy: 0.838206, Class Accuracy: 0.764003
+[2021-07-30 20:39:40,735][__main__][INFO] - Epoch 24 (224/300):
+[2021-07-30 20:43:36,071][__main__][INFO] - Validation Instance Accuracy: 0.822077, Class Accuracy: 0.736860
+[2021-07-30 20:43:36,072][__main__][INFO] - Epoch 25 (225/300):
+[2021-07-30 20:47:36,352][__main__][INFO] - Validation Instance Accuracy: 0.842742, Class Accuracy: 0.767642
+[2021-07-30 20:47:36,369][__main__][INFO] - Epoch 26 (226/300):
+[2021-07-30 20:52:00,188][__main__][INFO] - Validation Instance Accuracy: 0.818548, Class Accuracy: 0.725330
+[2021-07-30 20:52:00,221][__main__][INFO] - Epoch 27 (227/300):
+[2021-07-30 20:56:23,899][__main__][INFO] - Validation Instance Accuracy: 0.831149, Class Accuracy: 0.753413
+[2021-07-30 20:56:23,931][__main__][INFO] - Epoch 28 (228/300):
+[2021-07-30 21:00:43,623][__main__][INFO] - Validation Instance Accuracy: 0.834677, Class Accuracy: 0.756238
+[2021-07-30 21:00:43,667][__main__][INFO] - Epoch 29 (229/300):
+[2021-07-30 21:05:06,965][__main__][INFO] - Validation Instance Accuracy: 0.838206, Class Accuracy: 0.746114
+[2021-07-30 21:05:06,993][__main__][INFO] - Epoch 30 (230/300):
+[2021-07-30 21:09:21,824][__main__][INFO] - Validation Instance Accuracy: 0.837198, Class Accuracy: 0.732412
+[2021-07-30 21:09:21,838][__main__][INFO] - Epoch 31 (231/300):
+[2021-07-30 21:13:36,385][__main__][INFO] - Validation Instance Accuracy: 0.824093, Class Accuracy: 0.716057
+[2021-07-30 21:13:36,421][__main__][INFO] - Epoch 32 (232/300):
+[2021-07-30 21:17:33,561][__main__][INFO] - Validation Instance Accuracy: 0.848790, Class Accuracy: 0.767154
+[2021-07-30 21:17:33,562][__main__][INFO] - Epoch 33 (233/300):
+[2021-07-30 21:21:30,372][__main__][INFO] - Validation Instance Accuracy: 0.830141, Class Accuracy: 0.775532
+[2021-07-30 21:21:30,374][__main__][INFO] - Epoch 34 (234/300):
+[2021-07-30 21:25:26,584][__main__][INFO] - Validation Instance Accuracy: 0.826613, Class Accuracy: 0.732589
+[2021-07-30 21:25:26,585][__main__][INFO] - Epoch 35 (235/300):
+[2021-07-30 21:29:30,208][__main__][INFO] - Validation Instance Accuracy: 0.836190, Class Accuracy: 0.758907
+[2021-07-30 21:29:30,246][__main__][INFO] - Epoch 36 (236/300):
+[2021-07-30 21:33:36,758][__main__][INFO] - Validation Instance Accuracy: 0.848286, Class Accuracy: 0.767353
+[2021-07-30 21:33:36,802][__main__][INFO] - Epoch 37 (237/300):
+[2021-07-30 21:37:43,366][__main__][INFO] - Validation Instance Accuracy: 0.834677, Class Accuracy: 0.745543
+[2021-07-30 21:37:43,400][__main__][INFO] - Epoch 38 (238/300):
+[2021-07-30 21:41:49,937][__main__][INFO] - Validation Instance Accuracy: 0.823085, Class Accuracy: 0.758017
+[2021-07-30 21:41:49,973][__main__][INFO] - Epoch 39 (239/300):
+[2021-07-30 21:45:59,299][__main__][INFO] - Validation Instance Accuracy: 0.813508, Class Accuracy: 0.714956
+[2021-07-30 21:45:59,300][__main__][INFO] - Epoch 40 (240/300):
+[2021-07-30 21:49:55,274][__main__][INFO] - Validation Instance Accuracy: 0.822581, Class Accuracy: 0.753205
+[2021-07-30 21:49:55,275][__main__][INFO] - Epoch 41 (241/300):
+[2021-07-30 21:54:01,083][__main__][INFO] - Validation Instance Accuracy: 0.826109, Class Accuracy: 0.752088
+[2021-07-30 21:54:01,084][__main__][INFO] - Epoch 42 (242/300):
+[2021-07-30 21:58:16,414][__main__][INFO] - Validation Instance Accuracy: 0.836190, Class Accuracy: 0.753875
+[2021-07-30 21:58:16,458][__main__][INFO] - Epoch 43 (243/300):
+[2021-07-30 22:02:29,160][__main__][INFO] - Validation Instance Accuracy: 0.845766, Class Accuracy: 0.776904
+[2021-07-30 22:02:29,195][__main__][INFO] - Epoch 44 (244/300):
+[2021-07-30 22:06:46,738][__main__][INFO] - Validation Instance Accuracy: 0.844254, Class Accuracy: 0.783774
+[2021-07-30 22:06:46,774][__main__][INFO] - Epoch 45 (245/300):
+[2021-07-30 22:11:02,893][__main__][INFO] - Validation Instance Accuracy: 0.844758, Class Accuracy: 0.770150
+[2021-07-30 22:11:02,934][__main__][INFO] - Epoch 46 (246/300):
+[2021-07-30 22:15:16,812][__main__][INFO] - Validation Instance Accuracy: 0.837198, Class Accuracy: 0.748258
+[2021-07-30 22:15:16,828][__main__][INFO] - Epoch 47 (247/300):
+[2021-07-30 22:19:25,709][__main__][INFO] - Validation Instance Accuracy: 0.839718, Class Accuracy: 0.747182
+[2021-07-30 22:19:25,711][__main__][INFO] - Epoch 48 (248/300):
+[2021-07-30 22:23:45,427][__main__][INFO] - Validation Instance Accuracy: 0.842238, Class Accuracy: 0.782306
+[2021-07-30 22:23:45,428][__main__][INFO] - Epoch 49 (249/300):
+[2021-07-30 22:27:53,685][__main__][INFO] - Validation Instance Accuracy: 0.845766, Class Accuracy: 0.768503
+[2021-07-30 22:27:53,687][__main__][INFO] - Epoch 50 (250/300):
+[2021-07-30 22:31:52,329][__main__][INFO] - Validation Instance Accuracy: 0.842238, Class Accuracy: 0.762244
+[2021-07-30 22:31:52,360][__main__][INFO] - Epoch 51 (251/300):
+[2021-07-30 22:35:48,336][__main__][INFO] - Validation Instance Accuracy: 0.858367, Class Accuracy: 0.791264
+[2021-07-30 22:35:48,338][__main__][INFO] - Epoch 52 (252/300):
+[2021-07-30 22:39:45,142][__main__][INFO] - Validation Instance Accuracy: 0.862399, Class Accuracy: 0.794272
+[2021-07-30 22:39:45,143][__main__][INFO] - Epoch 53 (253/300):
+[2021-07-30 22:43:44,555][__main__][INFO] - Validation Instance Accuracy: 0.854839, Class Accuracy: 0.786158
+[2021-07-30 22:43:44,586][__main__][INFO] - Epoch 54 (254/300):
+[2021-07-30 22:47:43,504][__main__][INFO] - Validation Instance Accuracy: 0.856351, Class Accuracy: 0.790191
+[2021-07-30 22:47:43,550][__main__][INFO] - Epoch 55 (255/300):
+[2021-07-30 22:51:44,257][__main__][INFO] - Validation Instance Accuracy: 0.855343, Class Accuracy: 0.776927
+[2021-07-30 22:51:44,259][__main__][INFO] - Epoch 56 (256/300):
+[2021-07-30 22:55:42,022][__main__][INFO] - Validation Instance Accuracy: 0.858367, Class Accuracy: 0.784920
+[2021-07-30 22:55:42,023][__main__][INFO] - Epoch 57 (257/300):
+[2021-07-30 22:59:39,734][__main__][INFO] - Validation Instance Accuracy: 0.853831, Class Accuracy: 0.776998
+[2021-07-30 22:59:39,735][__main__][INFO] - Epoch 58 (258/300):
+[2021-07-30 23:03:40,143][__main__][INFO] - Validation Instance Accuracy: 0.858367, Class Accuracy: 0.789755
+[2021-07-30 23:03:40,144][__main__][INFO] - Epoch 59 (259/300):
+[2021-07-30 23:07:38,901][__main__][INFO] - Validation Instance Accuracy: 0.853831, Class Accuracy: 0.784777
+[2021-07-30 23:07:38,902][__main__][INFO] - Epoch 60 (260/300):
+[2021-07-30 23:11:37,835][__main__][INFO] - Validation Instance Accuracy: 0.857863, Class Accuracy: 0.790718
+[2021-07-30 23:11:37,837][__main__][INFO] - Epoch 61 (261/300):
+[2021-07-30 23:15:37,957][__main__][INFO] - Validation Instance Accuracy: 0.849798, Class Accuracy: 0.784926
+[2021-07-30 23:15:37,974][__main__][INFO] - Epoch 62 (262/300):
+[2021-07-30 23:19:37,112][__main__][INFO] - Validation Instance Accuracy: 0.864415, Class Accuracy: 0.791632
+[2021-07-30 23:19:37,113][__main__][INFO] - Epoch 63 (263/300):
+[2021-07-30 23:23:34,766][__main__][INFO] - Validation Instance Accuracy: 0.846774, Class Accuracy: 0.775933
+[2021-07-30 23:23:34,767][__main__][INFO] - Epoch 64 (264/300):
+[2021-07-30 23:26:44,492][__main__][INFO] - Best Instance Accuracy: 0.733157
+[2021-07-30 23:26:44,493][__main__][INFO] - Save model...
+[2021-07-30 23:26:44,493][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:27:34,760][__main__][INFO] - Validation Instance Accuracy: 0.849294, Class Accuracy: 0.786258
+[2021-07-30 23:27:34,778][__main__][INFO] - Epoch 65 (265/300):
+[2021-07-30 23:30:44,032][__main__][INFO] - Best Instance Accuracy: 0.733919
+[2021-07-30 23:30:44,049][__main__][INFO] - Save model...
+[2021-07-30 23:30:44,049][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:31:32,789][__main__][INFO] - Validation Instance Accuracy: 0.856351, Class Accuracy: 0.777869
+[2021-07-30 23:31:32,790][__main__][INFO] - Epoch 66 (266/300):
+[2021-07-30 23:34:44,217][__main__][INFO] - Best Instance Accuracy: 0.734618
+[2021-07-30 23:34:44,218][__main__][INFO] - Save model...
+[2021-07-30 23:34:44,218][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:35:32,894][__main__][INFO] - Validation Instance Accuracy: 0.857359, Class Accuracy: 0.792833
+[2021-07-30 23:35:32,895][__main__][INFO] - Epoch 67 (267/300):
+[2021-07-30 23:38:43,322][__main__][INFO] - Best Instance Accuracy: 0.735305
+[2021-07-30 23:38:43,354][__main__][INFO] - Save model...
+[2021-07-30 23:38:43,354][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:39:31,696][__main__][INFO] - Validation Instance Accuracy: 0.859375, Class Accuracy: 0.789290
+[2021-07-30 23:39:31,696][__main__][INFO] - Epoch 68 (268/300):
+[2021-07-30 23:42:43,255][__main__][INFO] - Best Instance Accuracy: 0.735963
+[2021-07-30 23:42:43,256][__main__][INFO] - Save model...
+[2021-07-30 23:42:43,256][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:43:32,765][__main__][INFO] - Validation Instance Accuracy: 0.856855, Class Accuracy: 0.788222
+[2021-07-30 23:43:32,766][__main__][INFO] - Epoch 69 (269/300):
+[2021-07-30 23:46:42,617][__main__][INFO] - Best Instance Accuracy: 0.736672
+[2021-07-30 23:46:42,618][__main__][INFO] - Save model...
+[2021-07-30 23:46:42,618][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:47:31,216][__main__][INFO] - Validation Instance Accuracy: 0.848790, Class Accuracy: 0.780511
+[2021-07-30 23:47:31,217][__main__][INFO] - Epoch 70 (270/300):
+[2021-07-30 23:50:41,538][__main__][INFO] - Best Instance Accuracy: 0.737346
+[2021-07-30 23:50:41,539][__main__][INFO] - Save model...
+[2021-07-30 23:50:41,539][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:51:31,377][__main__][INFO] - Validation Instance Accuracy: 0.855847, Class Accuracy: 0.785870
+[2021-07-30 23:51:31,378][__main__][INFO] - Epoch 71 (271/300):
+[2021-07-30 23:54:42,786][__main__][INFO] - Best Instance Accuracy: 0.738065
+[2021-07-30 23:54:42,807][__main__][INFO] - Save model...
+[2021-07-30 23:54:42,808][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:55:32,284][__main__][INFO] - Validation Instance Accuracy: 0.860383, Class Accuracy: 0.797321
+[2021-07-30 23:55:32,285][__main__][INFO] - Epoch 72 (272/300):
+[2021-07-30 23:58:44,375][__main__][INFO] - Best Instance Accuracy: 0.738684
+[2021-07-30 23:58:44,423][__main__][INFO] - Save model...
+[2021-07-30 23:58:44,423][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-30 23:59:33,539][__main__][INFO] - Validation Instance Accuracy: 0.854839, Class Accuracy: 0.778602
+[2021-07-30 23:59:33,541][__main__][INFO] - Epoch 73 (273/300):
+[2021-07-31 00:02:44,343][__main__][INFO] - Best Instance Accuracy: 0.739370
+[2021-07-31 00:02:44,362][__main__][INFO] - Save model...
+[2021-07-31 00:02:44,362][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:03:33,051][__main__][INFO] - Validation Instance Accuracy: 0.850806, Class Accuracy: 0.783008
+[2021-07-31 00:03:33,052][__main__][INFO] - Epoch 74 (274/300):
+[2021-07-31 00:06:43,159][__main__][INFO] - Best Instance Accuracy: 0.739971
+[2021-07-31 00:06:43,177][__main__][INFO] - Save model...
+[2021-07-31 00:06:43,177][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:07:33,220][__main__][INFO] - Validation Instance Accuracy: 0.850806, Class Accuracy: 0.781019
+[2021-07-31 00:07:33,246][__main__][INFO] - Epoch 75 (275/300):
+[2021-07-31 00:10:49,422][__main__][INFO] - Best Instance Accuracy: 0.740617
+[2021-07-31 00:10:49,473][__main__][INFO] - Save model...
+[2021-07-31 00:10:49,473][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:11:41,597][__main__][INFO] - Validation Instance Accuracy: 0.852319, Class Accuracy: 0.782532
+[2021-07-31 00:11:41,608][__main__][INFO] - Epoch 76 (276/300):
+[2021-07-31 00:15:08,581][__main__][INFO] - Best Instance Accuracy: 0.741179
+[2021-07-31 00:15:08,615][__main__][INFO] - Save model...
+[2021-07-31 00:15:08,615][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:16:02,053][__main__][INFO] - Validation Instance Accuracy: 0.860383, Class Accuracy: 0.781395
+[2021-07-31 00:16:02,054][__main__][INFO] - Epoch 77 (277/300):
+[2021-07-31 00:19:29,574][__main__][INFO] - Best Instance Accuracy: 0.741753
+[2021-07-31 00:19:29,615][__main__][INFO] - Save model...
+[2021-07-31 00:19:29,615][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:20:20,938][__main__][INFO] - Validation Instance Accuracy: 0.842742, Class Accuracy: 0.775872
+[2021-07-31 00:20:20,938][__main__][INFO] - Epoch 78 (278/300):
+[2021-07-31 00:23:31,590][__main__][INFO] - Best Instance Accuracy: 0.742306
+[2021-07-31 00:23:31,591][__main__][INFO] - Save model...
+[2021-07-31 00:23:31,591][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:24:21,147][__main__][INFO] - Validation Instance Accuracy: 0.849294, Class Accuracy: 0.786282
+[2021-07-31 00:24:21,149][__main__][INFO] - Epoch 79 (279/300):
+[2021-07-31 00:27:31,664][__main__][INFO] - Best Instance Accuracy: 0.742889
+[2021-07-31 00:27:31,665][__main__][INFO] - Save model...
+[2021-07-31 00:27:31,665][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:28:19,649][__main__][INFO] - Validation Instance Accuracy: 0.859375, Class Accuracy: 0.789391
+[2021-07-31 00:28:19,650][__main__][INFO] - Epoch 80 (280/300):
+[2021-07-31 00:31:28,705][__main__][INFO] - Best Instance Accuracy: 0.743378
+[2021-07-31 00:31:28,706][__main__][INFO] - Save model...
+[2021-07-31 00:31:28,706][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:32:18,336][__main__][INFO] - Validation Instance Accuracy: 0.855847, Class Accuracy: 0.783851
+[2021-07-31 00:32:18,353][__main__][INFO] - Epoch 81 (281/300):
+[2021-07-31 00:35:29,331][__main__][INFO] - Best Instance Accuracy: 0.743891
+[2021-07-31 00:35:29,332][__main__][INFO] - Save model...
+[2021-07-31 00:35:29,332][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:36:19,529][__main__][INFO] - Validation Instance Accuracy: 0.854335, Class Accuracy: 0.783862
+[2021-07-31 00:36:19,530][__main__][INFO] - Epoch 82 (282/300):
+[2021-07-31 00:39:32,976][__main__][INFO] - Best Instance Accuracy: 0.744331
+[2021-07-31 00:39:32,977][__main__][INFO] - Save model...
+[2021-07-31 00:39:32,977][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:40:22,859][__main__][INFO] - Validation Instance Accuracy: 0.840726, Class Accuracy: 0.766287
+[2021-07-31 00:40:22,860][__main__][INFO] - Epoch 83 (283/300):
+[2021-07-31 00:43:36,270][__main__][INFO] - Best Instance Accuracy: 0.744814
+[2021-07-31 00:43:36,299][__main__][INFO] - Save model...
+[2021-07-31 00:43:36,299][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:44:25,622][__main__][INFO] - Validation Instance Accuracy: 0.850806, Class Accuracy: 0.789787
+[2021-07-31 00:44:25,623][__main__][INFO] - Epoch 84 (284/300):
+[2021-07-31 00:47:35,062][__main__][INFO] - Best Instance Accuracy: 0.745170
+[2021-07-31 00:47:35,089][__main__][INFO] - Save model...
+[2021-07-31 00:47:35,089][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:48:24,180][__main__][INFO] - Validation Instance Accuracy: 0.852319, Class Accuracy: 0.784364
+[2021-07-31 00:48:24,181][__main__][INFO] - Epoch 85 (285/300):
+[2021-07-31 00:51:35,708][__main__][INFO] - Best Instance Accuracy: 0.745678
+[2021-07-31 00:51:35,738][__main__][INFO] - Save model...
+[2021-07-31 00:51:35,738][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:52:26,457][__main__][INFO] - Validation Instance Accuracy: 0.849798, Class Accuracy: 0.774536
+[2021-07-31 00:52:26,490][__main__][INFO] - Epoch 86 (286/300):
+[2021-07-31 00:55:39,207][__main__][INFO] - Best Instance Accuracy: 0.746126
+[2021-07-31 00:55:39,233][__main__][INFO] - Save model...
+[2021-07-31 00:55:39,233][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 00:56:28,472][__main__][INFO] - Validation Instance Accuracy: 0.849798, Class Accuracy: 0.789714
+[2021-07-31 00:56:28,473][__main__][INFO] - Epoch 87 (287/300):
+[2021-07-31 00:59:40,452][__main__][INFO] - Best Instance Accuracy: 0.746541
+[2021-07-31 00:59:40,489][__main__][INFO] - Save model...
+[2021-07-31 00:59:40,489][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:00:30,430][__main__][INFO] - Validation Instance Accuracy: 0.854335, Class Accuracy: 0.785691
+[2021-07-31 01:00:30,431][__main__][INFO] - Epoch 88 (288/300):
+[2021-07-31 01:03:42,465][__main__][INFO] - Best Instance Accuracy: 0.746993
+[2021-07-31 01:03:42,494][__main__][INFO] - Save model...
+[2021-07-31 01:03:42,494][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:04:31,246][__main__][INFO] - Validation Instance Accuracy: 0.855847, Class Accuracy: 0.783296
+[2021-07-31 01:04:31,247][__main__][INFO] - Epoch 89 (289/300):
+[2021-07-31 01:07:43,856][__main__][INFO] - Best Instance Accuracy: 0.747470
+[2021-07-31 01:07:43,875][__main__][INFO] - Save model...
+[2021-07-31 01:07:43,875][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:08:34,171][__main__][INFO] - Validation Instance Accuracy: 0.848790, Class Accuracy: 0.780689
+[2021-07-31 01:08:34,186][__main__][INFO] - Epoch 90 (290/300):
+[2021-07-31 01:11:56,011][__main__][INFO] - Best Instance Accuracy: 0.747887
+[2021-07-31 01:11:56,036][__main__][INFO] - Save model...
+[2021-07-31 01:11:56,036][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:12:48,650][__main__][INFO] - Validation Instance Accuracy: 0.852823, Class Accuracy: 0.788825
+[2021-07-31 01:12:48,672][__main__][INFO] - Epoch 91 (291/300):
+[2021-07-31 01:16:16,191][__main__][INFO] - Best Instance Accuracy: 0.748221
+[2021-07-31 01:16:16,203][__main__][INFO] - Save model...
+[2021-07-31 01:16:16,203][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:17:09,007][__main__][INFO] - Validation Instance Accuracy: 0.848790, Class Accuracy: 0.787856
+[2021-07-31 01:17:09,021][__main__][INFO] - Epoch 92 (292/300):
+[2021-07-31 01:20:26,669][__main__][INFO] - Best Instance Accuracy: 0.748589
+[2021-07-31 01:20:26,670][__main__][INFO] - Save model...
+[2021-07-31 01:20:26,670][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:21:15,853][__main__][INFO] - Validation Instance Accuracy: 0.857863, Class Accuracy: 0.784039
+[2021-07-31 01:21:15,884][__main__][INFO] - Epoch 93 (293/300):
+[2021-07-31 01:24:30,472][__main__][INFO] - Best Instance Accuracy: 0.749032
+[2021-07-31 01:24:30,511][__main__][INFO] - Save model...
+[2021-07-31 01:24:30,511][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:25:21,157][__main__][INFO] - Validation Instance Accuracy: 0.860887, Class Accuracy: 0.791511
+[2021-07-31 01:25:21,157][__main__][INFO] - Epoch 94 (294/300):
+[2021-07-31 01:28:33,510][__main__][INFO] - Best Instance Accuracy: 0.749408
+[2021-07-31 01:28:33,541][__main__][INFO] - Save model...
+[2021-07-31 01:28:33,541][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:29:22,535][__main__][INFO] - Validation Instance Accuracy: 0.845766, Class Accuracy: 0.775380
+[2021-07-31 01:29:22,536][__main__][INFO] - Epoch 95 (295/300):
+[2021-07-31 01:32:34,653][__main__][INFO] - Best Instance Accuracy: 0.749766
+[2021-07-31 01:32:34,680][__main__][INFO] - Save model...
+[2021-07-31 01:32:34,680][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:33:24,961][__main__][INFO] - Validation Instance Accuracy: 0.855847, Class Accuracy: 0.787767
+[2021-07-31 01:33:24,962][__main__][INFO] - Epoch 96 (296/300):
+[2021-07-31 01:36:37,376][__main__][INFO] - Best Instance Accuracy: 0.750148
+[2021-07-31 01:36:37,398][__main__][INFO] - Save model...
+[2021-07-31 01:36:37,398][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:37:27,275][__main__][INFO] - Validation Instance Accuracy: 0.847278, Class Accuracy: 0.778488
+[2021-07-31 01:37:27,275][__main__][INFO] - Epoch 97 (297/300):
+[2021-07-31 01:40:40,204][__main__][INFO] - Best Instance Accuracy: 0.750519
+[2021-07-31 01:40:40,241][__main__][INFO] - Save model...
+[2021-07-31 01:40:40,241][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:41:29,554][__main__][INFO] - Validation Instance Accuracy: 0.860383, Class Accuracy: 0.774935
+[2021-07-31 01:41:29,555][__main__][INFO] - Epoch 98 (298/300):
+[2021-07-31 01:44:44,301][__main__][INFO] - Best Instance Accuracy: 0.750869
+[2021-07-31 01:44:44,346][__main__][INFO] - Save model...
+[2021-07-31 01:44:44,346][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:45:33,398][__main__][INFO] - Validation Instance Accuracy: 0.851310, Class Accuracy: 0.797263
+[2021-07-31 01:45:33,415][__main__][INFO] - Epoch 99 (299/300):
+[2021-07-31 01:48:46,086][__main__][INFO] - Best Instance Accuracy: 0.751199
+[2021-07-31 01:48:46,086][__main__][INFO] - Save model...
+[2021-07-31 01:48:46,086][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:49:37,651][__main__][INFO] - Validation Instance Accuracy: 0.861391, Class Accuracy: 0.804139
+[2021-07-31 01:49:37,653][__main__][INFO] - Epoch 100 (300/300):
+[2021-07-31 01:52:50,799][__main__][INFO] - Best Instance Accuracy: 0.751610
+[2021-07-31 01:52:50,800][__main__][INFO] - Save model...
+[2021-07-31 01:52:50,800][__main__][INFO] - Saving at ARM_model.pth
+[2021-07-31 01:53:41,098][__main__][INFO] - Validation Instance Accuracy: 0.857863, Class Accuracy: 0.783646
+[2021-07-31 01:53:41,099][__main__][INFO] - End of training...
+[2021-07-31 01:53:41,099][__main__][INFO] - Test
+[2021-07-31 01:54:58,027][__main__][INFO] - Test Instance Accuracy: 0.839919, Class Accuracy: 0.769455
