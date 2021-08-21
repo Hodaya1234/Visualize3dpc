@@ -1,7 +1,7 @@
 import torch
 from models.CAM_model import CAMLayer
 import numpy as np
-from feature_visualization.feature_visualization import FeatureVisualization
+from training.feature_visualization import FeatureVisualization
 
 
 class CamClass(FeatureVisualization):

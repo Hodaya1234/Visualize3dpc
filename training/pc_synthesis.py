@@ -2,13 +2,14 @@ import hydra
 import numpy as np
 import torch
 import sys
-from models.Menghao.model import PointTransformerCls
-from utils import init_points
-from feature_extractor import FeatureExtractor
+from models import model
+from utils.general_utils import init_points
+from utils.feature_extractor import FeatureExtractor
 from utils import plot_points
 from scipy.special import softmax
 # from attention import simple_self_attention
 import utils
+import os
 
 def attention_loss(feat1, feat2):
     # B,C,N
@@ -85,21 +86,20 @@ def optimize_pc(extractor, target_pc, input_pc, lr=1e-2, epochs=1000, step_size=
     animator.make_animation()
 
 
-if __name__ == '__main__':
-    # D X N
-    lr = float(sys.argv[1])
-    epochs = int(sys.argv[2])
-    step_size = int(sys.argv[3])
-    gamma = float(sys.argv[4])
+def run():
+    from config import config
+    config = config.load_config('../config/config.ini')
+    lr = config['Synth']['lr']
+    epochs = config['Synth']['epochs']
+    step_size = config['Synth']['step_size']
+    gamma = config['Synth']['gamma']
     # Params
-    OBJECT = 'LAMP'
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-    RUN_NAME = OBJECT + '_INIT_' + 'SPHERE' + '_PRIOR_' + 'No' + '_LR_' + str(lr) + '_EPOCHS_' + str(
-        epochs) + '_STEPSIZE_' + str(
-        step_size) + '_GAMMA_' + str(gamma) + '_2'
+    name = 'synth'
+    output_path = os.path.join(config['Runtime']['output_path'], name + '.npz')
 
     # load PCT network
-    PCT_model = PointTransformerCls()
+    PCT_model = model()
     if torch.cuda.is_available():
         PCT_checkpoint = torch.load('results/best_model.pth')
     else:
@@ -130,3 +130,6 @@ if __name__ == '__main__':
 
     title = 'inputs/pc_synthesis/{}_{}'.format(utils.class_name(targets[k]), k)
     optimize_pc(extractor, original_pc, pc_synt, lr=lr, epochs=epochs, step_size=step_size, gamma=gamma, title=title)
+
+if __name__ == '__main__':
+    run()

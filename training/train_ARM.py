@@ -1,4 +1,4 @@
-from feature_visualization import compute_ARM
+from training import compute_ARM
 
 
 if __name__ == '__main__':

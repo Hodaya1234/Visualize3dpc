@@ -1,4 +1,4 @@
-from feature_visualization import compute_CAM
+from training import compute_CAM
 
 
 if __name__ == '__main__':

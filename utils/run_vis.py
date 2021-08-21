@@ -1,7 +1,7 @@
 import numpy as np
 import vis_functions
 from utils import plot_points
-import utils
+import general_utils
 import matplotlib.pyplot as plt
 
 
@@ -37,21 +37,21 @@ if __name__ == "__main__":
             cluster_colors = vis_functions.get_latent_colors(latent_data, together=do_latent_group_clust, n_classes=3)
             title = 'results/cluster_single/{}_animation_{}' if not do_latent_group_clust else 'results/cluster_group/{}_animation_{}'
             for i in range(num_examples):
-                plot_points.static_points_video(points[i], cluster_colors[i], sizes=4, n_frames=100, title=title.format(utils.class_name(targets[i]), j*num_examples+i))
+                plot_points.static_points_video(points[i], cluster_colors[i], sizes=4, n_frames=100, title=title.format(general_utils.class_name(targets[i]), j * num_examples + i))
 
         if do_cam:
             cam_file = np.load('inputs/CAM_data_new.npz')  # pred, target, all_points, latent, CAM, pts
             cam_data = np.squeeze(cam_file['CAM'][example_ind])
             cam_colors = vis_functions.get_grad_cam_colors(cam_data)
             for i in range(num_examples):
-                plot_points.static_points_video(points[i], cam_colors[i], n_frames=100, title='results/cam/{}_animation_{}'.format(utils.class_name(targets[i]), j*num_examples+i))
+                plot_points.static_points_video(points[i], cam_colors[i], n_frames=100, title='results/cam/{}_animation_{}'.format(general_utils.class_name(targets[i]), j * num_examples + i))
 
         if do_grad_cam:
             grad_cam_file = np.load('inputs/grad_CAM_naive_PCT_89.npz')  # target, all_points, grad_CAM
             grad_cam_data = np.squeeze(grad_cam_file['grad_CAM'][example_ind])
             grad_cam_colors = vis_functions.get_grad_cam_colors(grad_cam_data)
             for i in range(num_examples):
-                plot_points.static_points_video(points[i], grad_cam_colors[i], n_frames=100, title='results/grad_cam/{}_animation_{}'.format(utils.class_name(targets[i]), j*num_examples+i))
+                plot_points.static_points_video(points[i], grad_cam_colors[i], n_frames=100, title='results/grad_cam/{}_animation_{}'.format(general_utils.class_name(targets[i]), j * num_examples + i))
 
         if do_arm:
             arm_file = np.load('inputs/ARM_data_mean.npz',
@@ -60,5 +60,5 @@ if __name__ == "__main__":
             assert (arm_file['target'][j] == targets).all()
             colors, sizes = vis_functions.get_arm_colors_sizes(arm_data, targets, preds)
             for i in range(num_examples):
-                plot_points.static_points_video(points[i], colors[i], sizes=sizes[i], n_frames=100, title='results/arm/{}_animation_{}'.format(utils.class_name(targets[i]), j*num_examples+i))
+                plot_points.static_points_video(points[i], colors[i], sizes=sizes[i], n_frames=100, title='results/arm/{}_animation_{}'.format(general_utils.class_name(targets[i]), j * num_examples + i))
 

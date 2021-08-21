@@ -1,5 +1,5 @@
 from models.ARM_model import ARMLayer
-from feature_visualization.feature_visualization import FeatureVisualization
+from training.feature_visualization import FeatureVisualization
 
 
 class CarmClass(FeatureVisualization):

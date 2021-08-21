@@ -11,7 +11,7 @@ from config import config
 import logging
 import torch.nn as nn
 import os
-from utils.utils import calculate_accuracy
+from utils.general_utils import calculate_accuracy
 
 
 class FeatureVisualization:

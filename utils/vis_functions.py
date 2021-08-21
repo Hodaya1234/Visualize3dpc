@@ -3,7 +3,7 @@ from itertools import cycle, islice
 import matplotlib.pyplot as plt
 from utils import clustering
 from scipy.special import softmax
-import utils
+import general_utils
 
 def class_activation_maps(pc_features):
     """
@@ -72,16 +72,15 @@ def plot_arm(all_pcs, all_CAMs, all_targets, all_preds):
 
         ax.scatter(points[target_points, 0], points[target_points, 1], points[target_points, 2], c='darkgreen',
                    s=confidence[target_points],
-                   label='target: {}'.format(utils.class_name(target)))
+                   label='target: {}'.format(general_utils.class_name(target)))
         ax.scatter(points[else_points, 0], points[else_points, 1], points[else_points, 2], c='dimgrey',
                    s=confidence[else_points])
         if target != pred:  # If the last legend need the handle to pred points for the red in the legend
             ax.scatter(points[pred_points, 0], points[pred_points, 1], points[pred_points, 2],
-                       c='darkred', s=confidence[pred_points], label='predicted: {}'.format(utils.class_name(pred)))
+                       c='darkred', s=confidence[pred_points], label='predicted: {}'.format(general_utils.class_name(pred)))
         ax.legend()
 
     plt.show()
-    # plt.savefig("..\\..\\..\\DL4CV Final Project\\CAM\\256\\{}_{}.png".format(utils.class_name((all_targets[i])), j))
 
 
 def plot_grad_cam(all_pcs, all_targets, colors):
@@ -97,7 +96,7 @@ def plot_grad_cam(all_pcs, all_targets, colors):
         ax.axis('off')
         ax.scatter(points[:, 0], points[:, 1], points[:, 2], c=colors,
                    s=1,
-                   label='target: {}'.format(utils.class_name(target)))
+                   label='target: {}'.format(general_utils.class_name(target)))
 
         ax.legend()
 
@@ -173,9 +172,9 @@ def plot_latent(all_pcs, all_latent, all_targets, all_preds):
         # ax.scatter(all_total_points[:, 0], all_total_points[:, 1], all_total_points[:, 2], c='silver',s=1)
         ax.scatter(points[:, 0], points[:, 1], points[:, 2], c=colors, s=2)
 
-        text = 'target {}: {:.3f}'.format(utils.class_name(target), probabilities[i, target])
+        text = 'target {}: {:.3f}'.format(general_utils.class_name(target), probabilities[i, target])
         if pred != target:
-            text += '\npred {}: {:.3f}'.format(utils.class_name(pred), probabilities[i, pred])
+            text += '\npred {}: {:.3f}'.format(general_utils.class_name(pred), probabilities[i, pred])
         ax.set_title(text)
     plt.show()
 
