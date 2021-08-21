@@ -40,8 +40,6 @@ def get_arm_colors_sizes(arm, targets, preds):
             sizes[i,pred_points] = 10
         sizes[i, target_points] = 15
         sizes[i, else_points] = 5
-
-
     return colors, sizes
 
 

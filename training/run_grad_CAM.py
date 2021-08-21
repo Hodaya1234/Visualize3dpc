@@ -42,3 +42,5 @@ def run():
 
     np.savez(output_path, target=target_array, all_points=points_array, grad_CAM=grad_CAM_array)  # save all in one file
 
+if __name__ == "__main__":
+    run()

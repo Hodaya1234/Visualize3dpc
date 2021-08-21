@@ -8,7 +8,7 @@ class ActivationsAndGradients:
         self.activations = []
 
         target_layer.register_forward_hook(self.save_activation)
-        target_layer.register_full_backward_hook(self.save_gradient)
+        target_layer.register_backward_hook(self.save_gradient)
 
     def save_activation(self, module, input, output):
         activation = output.cpu().detach()
