@@ -74,6 +74,8 @@ Final result: Airplane shape with four leg-like objects:
 
 <img src="https://user-images.githubusercontent.com/33811220/128633487-8096bf33-cb13-4bad-845b-2662857cca9b.gif" height="200">
 
+This work was made for "Deep Learning For Computer Vision" class at the Weizmann Inst. of Science by Yuval Belfer, Hodaya Koslowsky & Michal Skoury
+
 
 
 
